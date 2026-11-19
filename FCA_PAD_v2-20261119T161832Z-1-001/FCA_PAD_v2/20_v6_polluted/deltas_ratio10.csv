@@ -1,0 +1,55 @@
+seed,detector,comparison,delta_EUR_loss_topK,CI95_low,CI95_high,significant
+404,LSTM,+ layer (rules v3) vs alone,928.0,236.68,1774.31,True
+404,LSTM,+ layer (rules v3) vs × amount,730.29,325.25,1473.19,True
+404,LSTM,+ layer (rules v3) vs rules v3 alone × money,-110.2,-440.48,306.18,False
+404,LSTM,+ layer (rules v3) vs + layer (rules v1),714.74,158.39,1585.2,True
+404,LSTM,+ layer + exploration vs alone,821.79,156.73,1699.22,True
+404,LSTM,+ layer + exploration vs rules v3 alone × money,-216.41,-640.14,208.9,False
+404,GAMA,+ layer (rules v3) vs alone,939.48,262.92,1891.45,True
+404,GAMA,+ layer (rules v3) vs × amount,1993.21,1186.82,3032.74,True
+404,GAMA,+ layer (rules v3) vs rules v3 alone × money,-156.67,-575.84,251.42,False
+404,GAMA,+ layer (rules v3) vs + layer (rules v1),1236.89,537.86,2154.62,True
+404,GAMA,+ layer + exploration vs alone,841.98,152.92,1766.62,True
+404,GAMA,+ layer + exploration vs rules v3 alone × money,-254.17,-677.52,128.16,False
+404,DAE,+ layer (rules v3) vs alone,3425.38,1569.56,5632.97,True
+404,DAE,+ layer (rules v3) vs × amount,2728.5,1135.4,4868.66,True
+404,DAE,+ layer (rules v3) vs rules v3 alone × money,0.0,-220.24,97.5,False
+404,DAE,+ layer (rules v3) vs + layer (rules v1),1055.54,302.86,1816.05,True
+404,DAE,+ layer + exploration vs alone,3132.77,1421.78,5519.13,True
+404,DAE,+ layer + exploration vs rules v3 alone × money,-292.6,-698.2,0.0,False
+505,LSTM,+ layer (rules v3) vs alone,1137.84,9.69,3041.88,True
+505,LSTM,+ layer (rules v3) vs × amount,1169.62,302.52,2883.27,True
+505,LSTM,+ layer (rules v3) vs rules v3 alone × money,-149.82,-464.95,65.95,False
+505,LSTM,+ layer (rules v3) vs + layer (rules v1),1230.01,82.65,2897.86,True
+505,LSTM,+ layer + exploration vs alone,1127.58,-10.26,3041.88,False
+505,LSTM,+ layer + exploration vs rules v3 alone × money,-160.09,-466.44,78.15,False
+505,GAMA,+ layer (rules v3) vs alone,720.42,113.76,1566.4,True
+505,GAMA,+ layer (rules v3) vs × amount,1477.14,814.52,2314.55,True
+505,GAMA,+ layer (rules v3) vs rules v3 alone × money,-794.41,-2246.33,133.57,False
+505,GAMA,+ layer (rules v3) vs + layer (rules v1),968.18,367.58,2074.8,True
+505,GAMA,+ layer + exploration vs alone,659.22,34.08,1551.81,True
+505,GAMA,+ layer + exploration vs rules v3 alone × money,-855.61,-2341.31,66.72,False
+505,DAE,+ layer (rules v3) vs alone,1797.91,1018.23,3513.91,True
+505,DAE,+ layer (rules v3) vs × amount,1401.97,767.15,3040.14,True
+505,DAE,+ layer (rules v3) vs rules v3 alone × money,-794.41,-2113.91,93.76,False
+505,DAE,+ layer (rules v3) vs + layer (rules v1),968.18,347.91,2655.18,True
+505,DAE,+ layer + exploration vs alone,1686.81,902.36,2888.73,True
+505,DAE,+ layer + exploration vs rules v3 alone × money,-905.5,-2388.69,32.74,False
+606,LSTM,+ layer (rules v3) vs alone,765.0,178.68,3346.71,True
+606,LSTM,+ layer (rules v3) vs × amount,372.36,152.35,1043.5,True
+606,LSTM,+ layer (rules v3) vs rules v3 alone × money,0.0,-584.51,53.14,False
+606,LSTM,+ layer (rules v3) vs + layer (rules v1),622.21,184.02,1380.08,True
+606,LSTM,+ layer + exploration vs alone,664.92,124.85,3320.91,True
+606,LSTM,+ layer + exploration vs rules v3 alone × money,-100.09,-653.19,3.64,False
+606,GAMA,+ layer (rules v3) vs alone,1961.43,522.37,4274.81,True
+606,GAMA,+ layer (rules v3) vs × amount,2354.82,937.23,5079.58,True
+606,GAMA,+ layer (rules v3) vs rules v3 alone × money,0.0,-345.09,307.55,False
+606,GAMA,+ layer (rules v3) vs + layer (rules v1),2501.74,745.23,4474.6,True
+606,GAMA,+ layer + exploration vs alone,1814.14,352.22,4070.18,True
+606,GAMA,+ layer + exploration vs rules v3 alone × money,-147.29,-672.38,0.0,False
+606,DAE,+ layer (rules v3) vs alone,3700.34,1869.15,6216.37,True
+606,DAE,+ layer (rules v3) vs × amount,1656.04,938.96,2793.14,True
+606,DAE,+ layer (rules v3) vs rules v3 alone × money,0.0,-389.42,42.22,False
+606,DAE,+ layer (rules v3) vs + layer (rules v1),802.45,231.44,1498.62,True
+606,DAE,+ layer + exploration vs alone,3553.04,1728.34,6173.32,True
+606,DAE,+ layer + exploration vs rules v3 alone × money,-147.29,-692.51,0.0,False

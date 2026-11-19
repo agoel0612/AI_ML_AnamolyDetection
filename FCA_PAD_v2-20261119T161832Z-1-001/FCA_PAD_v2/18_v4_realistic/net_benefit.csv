@@ -1,0 +1,9 @@
+system,net_EUR_c10,net_EUR_c25,net_EUR_c50,net_EUR_c100,best_net_EUR_c10,best_net_EUR_c25,best_net_EUR_c50,best_net_EUR_c100
+anomaly lane (v2 percentile),-265.0,-1015.0,-2265.0,-4765.0,20.0,-130.0,-380.0,-880.0
+P(anomaly),-500.0,-1250.0,-2500.0,-5000.0,-100.0,-250.0,-500.0,-1000.0
+v2 FCA-PAD fusion,667.0,-83.0,-1333.0,-3833.0,918.0,658.0,408.0,-92.0
+amount-only expected loss,429.0,-321.0,-1571.0,-4071.0,577.0,176.0,-291.0,-958.0
+"v3 layer, registry v1 (frozen)",1040.0,290.0,-960.0,-3460.0,1201.0,775.0,398.0,-102.0
+"v3 layer, registry v3 (audit tests)",1632.0,882.0,-368.0,-2868.0,2125.0,1124.0,623.0,-43.0
+"v4 layer, registry v1 (frozen)",1078.0,328.0,-922.0,-3422.0,1311.0,1018.0,602.0,30.0
+"v4 layer, registry v3 (audit tests)",3007.0,2257.0,1007.0,-1493.0,3069.0,2257.0,1326.0,700.0

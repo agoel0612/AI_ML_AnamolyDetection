@@ -1,0 +1,18 @@
+system,0,1,4,10
+LSTM alone,0.195,0.192,0.17,0.147
+LSTM × amount,0.585,0.543,0.417,0.193
+LSTM + layer (rules v1),0.823,0.753,0.671,0.586
+LSTM + layer (rules v3),1.0,0.999,0.999,0.997
+LSTM + layer (rules v3) + exploration,0.991,0.991,0.989,0.966
+GAMA alone,0.169,0.125,0.026,0.0
+GAMA × amount,0.742,0.742,0.718,0.709
+GAMA + layer (rules v1),0.8,0.8,0.793,0.793
+GAMA + layer (rules v3),1.0,1.0,0.999,0.998
+GAMA + layer (rules v3) + exploration,0.991,0.989,0.986,0.983
+DAE alone,0.029,0.029,0.007,0.002
+DAE × amount,0.585,0.575,0.567,0.489
+DAE + layer (rules v1),0.701,0.691,0.667,0.653
+DAE + layer (rules v3),0.999,0.999,0.998,0.997
+DAE + layer (rules v3) + exploration,0.989,0.989,0.988,0.986
+amount alone,0.731,0.731,0.731,0.709
+rules v3 alone × money,1.0,1.0,0.999,0.997

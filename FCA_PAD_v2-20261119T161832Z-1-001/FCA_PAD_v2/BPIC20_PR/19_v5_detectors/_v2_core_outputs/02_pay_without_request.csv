@@ -1,0 +1,2 @@
+case:concept:name,start_time,end_time,length,amount,duration_h,variant,n_request_payment,n_payment_handled,n_rejections,n_submissions,n_approvals,n_rework_loops,has_missing_role,reaches_payment
+request for payment 186345,2018-12-18 08:46:18+00:00,2019-02-04 17:31:26+00:00,4,387.6244707017341,1160.75,Request For Payment SUBMITTED by EMPLOYEE -> Request For Payment APPROVED by ADMINISTRATION -> Request For Payment FINAL_APPROVED by SUPERVISOR -> Payment Handled,0,1,0,1,2,0,False,True

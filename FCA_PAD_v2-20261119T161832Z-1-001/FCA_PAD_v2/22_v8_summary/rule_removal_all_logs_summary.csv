@@ -1,0 +1,5 @@
+scenario,system,0,2,4,6,8,10
+covered,rules alone × money,0.935,0.84,0.748,0.702,0.628,0.542
+covered,two-lane: rules (40) + GAMA (10),0.905,0.807,0.73,0.671,0.607,0.529
+mixed,rules alone × money,0.568,0.537,0.509,0.494,0.458,0.424
+mixed,two-lane: rules (40) + GAMA (10),0.562,0.519,0.481,0.484,0.465,0.435

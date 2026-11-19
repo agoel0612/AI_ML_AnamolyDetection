@@ -1,0 +1,5 @@
+type,n,alerted,before_loss,median_lead_events,median_lead_hours
+A1,27,1.0,0.037,6.0,457.34
+A2,26,1.0,0.0,,
+A4,26,1.0,1.0,1.0,43.083
+A5,26,1.0,1.0,1.0,100.958

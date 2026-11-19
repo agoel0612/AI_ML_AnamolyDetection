@@ -1,0 +1,24 @@
+,method,F_score,AP,source
+1,[ours] v2 anomaly lane (next-event),0.999100719,0.998214286,this run
+2,[ours] v2 FCA-PAD,0.995334018,0.995812019,this run
+3,WAKE (weakly sup.),0.93,0.941,published
+4,GAMA,0.921,0.942,published
+5,[ours] v1 FCA-PAD (0.4·A_ENS+0.6·F),0.891332182,0.909063336,this run
+6,Likelihood,0.884,0.895,published
+7,[ours] Financial rules only (F),0.851095884,0.824299172,this run
+8,DAE,0.85,0.777,published
+9,GRASPED,0.848,0.839,published
+10,LAE,0.847,0.832,published
+11,BINetv3,0.843,0.799,published
+12,BINetv2,0.835,0.849,published
+13,[ours] LSTM autoencoder,0.817947327,0.843087628,this run
+14,Leverage,0.805,0.76,published
+15,Naive,0.797,0.756,published
+16,Sampling,0.746,0.622,published
+17,[ours] v1 anomaly lane (IF+AE),0.710502315,0.674021252,this run
+18,VAE,0.604,0.624,published
+19,W2V-LOF,0.589,0.483,published
+20,[ours] Isolation Forest,0.554180625,0.511362706,this run
+21,GAE,0.549,0.434,published
+22,DRL (weakly sup.),0.459,0.352,published
+23,VAE-OCSVM,0.378,0.232,published

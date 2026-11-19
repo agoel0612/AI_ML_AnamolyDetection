@@ -1,0 +1,3 @@
+regime,A_PR_AUC,R_PR_AUC,R_F1_oracle,R_V@50
+1 (clean training),0.986,0.986,0.955,0.815
+2 (5% injected in training: 193 cases),0.586,0.586,0.803,0.48

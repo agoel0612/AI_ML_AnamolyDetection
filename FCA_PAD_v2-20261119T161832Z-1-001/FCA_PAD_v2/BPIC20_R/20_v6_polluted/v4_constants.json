@@ -1,0 +1,20 @@
+{
+  "v2_lane": "A_NE_max_act_role",
+  "budget_col": null,
+  "ratio_q99": null,
+  "org_col": "case:OrganizationalEntity",
+  "director_threshold": 1234.2643827988225,
+  "n_director_train_cases": 19,
+  "director_share_below_threshold": 0.00025233409033560434,
+  "pi_pay": 1.0,
+  "rejection_activity": "Request For Payment REJECTED by ADMINISTRATION",
+  "rejection_role": "ADMINISTRATION",
+  "submission_activity": "Request For Payment SUBMITTED by EMPLOYEE",
+  "costly_types": [
+    "A1",
+    "A5",
+    "C1",
+    "C3",
+    "C4"
+  ]
+}

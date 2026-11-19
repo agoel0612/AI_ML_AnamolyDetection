@@ -1,0 +1,9 @@
+system,covered,dodge,new,mixed
+two-lane: rules (40) + GAMA (10),0.8551,0.1004,0.1048,0.4701
+rules alone × money,0.8717,0.1128,0.0517,0.4703
+GAMA alone,0.2906,0.12,0.3776,0.2758
+"GAMA + layer (blended, v7)",0.8543,0.1355,0.0909,0.4918
+GAMA + layer + exploration (v7),0.8332,0.1355,0.1591,0.4938
+"two-lane, equal-weight rules",0.4099,0.083,0.0865,0.2507
+rules (equal weights) × money,0.4271,0.083,0.0419,0.245
+amount alone,0.1278,0.0801,0.0547,0.1063

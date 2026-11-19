@@ -1,0 +1,19 @@
+system,covered,dodge,new,mixed
+rules alone × money,1.0,0.2225,0.317,0.6775
+rules alone (equal weights) × money,0.8627,0.1462,0.1869,0.5592
+amount alone,0.6419,0.1456,0.3562,0.5461
+LSTM alone,0.2221,0.3343,0.2999,0.2029
+LSTM + layer,0.9686,0.4989,0.4864,0.7385
+LSTM + layer + exploration,0.9527,0.474,0.4525,0.702
+LSTM + layer (equal weights),0.8398,0.3424,0.4191,0.5703
+LSTM + layer + exploration (all types labelled),0.9467,0.4863,0.5013,0.7015
+GAMA alone,0.0974,0.2268,0.351,0.1447
+GAMA + layer,0.9075,0.2021,0.4127,0.6618
+GAMA + layer + exploration,0.9071,0.1395,0.3728,0.6703
+GAMA + layer (equal weights),0.7384,0.1773,0.3359,0.5013
+GAMA + layer + exploration (all types labelled),0.7991,0.2603,0.4229,0.6183
+DAE alone,0.1237,0.0352,0.0171,0.0778
+DAE + layer,1.0,0.3302,0.1991,0.6839
+DAE + layer + exploration,0.9677,0.2893,0.1804,0.6775
+DAE + layer (equal weights),0.5188,0.1637,0.1519,0.3074
+DAE + layer + exploration (all types labelled),0.9436,0.2392,0.2072,0.6599

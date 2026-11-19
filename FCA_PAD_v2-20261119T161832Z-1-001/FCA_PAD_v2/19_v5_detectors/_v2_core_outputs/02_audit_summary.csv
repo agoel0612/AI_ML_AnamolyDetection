@@ -1,0 +1,2 @@
+max_pay_per_case,pay_without_request,request_without_pay,off_batch_cases,never_paid,rare_clusters,rare_cluster_cases,delayed,heavy_rework,variants,BATCH_WEEKDAYS,BATCH_HOUR,BATCHED,batch_share,MULTI_BATCH_HRS,median_req_to_pay_h
+1,7,3,27,456,123,253,230,126,99,"[0, 3]",17,True,0.9973118279569892,180.0,77.77111111111111

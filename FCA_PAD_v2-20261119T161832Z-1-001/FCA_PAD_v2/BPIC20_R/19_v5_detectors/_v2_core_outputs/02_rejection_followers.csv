@@ -1,0 +1,10 @@
+concept:name,next_act,n
+Request For Payment REJECTED by ADMINISTRATION,Request For Payment REJECTED by EMPLOYEE,811
+Request For Payment REJECTED by ADMINISTRATION,Request For Payment SUBMITTED by EMPLOYEE,23
+Request For Payment REJECTED by BUDGET OWNER,Request For Payment REJECTED by EMPLOYEE,47
+Request For Payment REJECTED by EMPLOYEE,Request For Payment SUBMITTED by EMPLOYEE,635
+Request For Payment REJECTED by EMPLOYEE,Request For Payment SAVED by EMPLOYEE,2
+Request For Payment REJECTED by MISSING,Request For Payment SUBMITTED by EMPLOYEE,25
+Request For Payment REJECTED by PRE_APPROVER,Request For Payment REJECTED by EMPLOYEE,51
+Request For Payment REJECTED by SUPERVISOR,Request For Payment REJECTED by EMPLOYEE,173
+Request For Payment REJECTED by SUPERVISOR,Request For Payment SUBMITTED by EMPLOYEE,5

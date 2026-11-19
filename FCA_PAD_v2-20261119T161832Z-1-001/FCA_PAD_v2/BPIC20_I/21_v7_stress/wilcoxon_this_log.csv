@@ -1,0 +1,21 @@
+scenario,comparison,pairs,improved,significant_better,significant_worse,mean_delta_MoneyRecall,wilcoxon_p_one_sided
+covered,hybrid vs detector alone,9,9,9,0,0.7947222362739965,0.001953125
+covered,hybrid vs rules alone,9,2,0,0,-0.05750142355218882,0.994140625
+covered,layer vs rules alone,9,3,0,0,-0.041301921861135155,0.9453125
+covered,learned vs equal weights,9,9,9,0,0.25971428858147455,0.001953125
+covered,rules: learned vs equal weights,3,3,3,0,0.1373409872179655,
+dodge,hybrid vs detector alone,9,7,2,0,0.10214141421183118,0.048828125
+dodge,hybrid vs rules alone,9,4,1,0,0.07839407321899367,0.28125
+dodge,layer vs rules alone,9,5,1,0,0.12121861385404303,0.1484375
+dodge,learned vs equal weights,9,8,1,0,0.11589150539690121,0.02734375
+dodge,rules: learned vs equal weights,3,3,0,0,0.07628778134988722,
+mixed,hybrid vs detector alone,9,9,8,0,0.5414572470300426,0.001953125
+mixed,hybrid vs rules alone,9,4,1,0,0.005779124858749264,0.515625
+mixed,layer vs rules alone,9,5,1,0,0.017300757479842742,0.1875
+mixed,learned vs equal weights,9,9,1,0,0.23509249927808332,0.001953125
+mixed,rules: learned vs equal weights,3,3,1,0,0.11829264685910491,
+new,hybrid vs detector alone,9,5,0,2,0.11255268286843537,0.15625
+new,hybrid vs rules alone,9,4,2,0,0.018240137694254067,0.3671875
+new,layer vs rules alone,9,5,1,0,0.0490923185129869,0.19140625
+new,learned vs equal weights,9,6,0,0,0.06374968708575257,0.150390625
+new,rules: learned vs equal weights,3,2,0,0,0.1300526061310542,

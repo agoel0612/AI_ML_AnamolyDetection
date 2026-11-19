@@ -1,0 +1,10 @@
+,result
+log,BPIC20_PR
+H23 rules alone: covered → dodge / new,0.78 → 0.02 / 0.28
+"H24 hybrid vs rules alone (dodge, new, mixed)",dodge: 0.32 vs 0.02 | new: 0.29 vs 0.28 | mixed: 0.76 vs 0.71
+"H25 MoneyRecall lost, 0→max rules removed (covered): rules / hybrid",-0.05 / 0.24
+"H26 learned vs equal (covered, mixed)","covered: 0.78 vs 0.57 | mixed: 0.79 vs 0.70 | rho(weight, precision) = 0.87"
+"H23b share of costly CASES caught, rules alone: covered → dodge / new",0.97 → 0.07 / 0.27
+"H24b costly cases caught, hybrid vs rules alone (dodge, new, mixed)",dodge: 0.36 vs 0.07 | new: 0.28 vs 0.27 | mixed: 0.64 vs 0.57
+H27 mixed: hybrid / rules alone / detector alone,0.76 / 0.71 / 0.28
+"once new types are labelled (hybrid, dodge / new)",0.41 / 0.37

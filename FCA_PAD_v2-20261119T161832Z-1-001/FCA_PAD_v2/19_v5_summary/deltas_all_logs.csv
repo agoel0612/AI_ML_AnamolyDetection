@@ -1,0 +1,217 @@
+log,seed,detector,comparison,delta_EUR_loss_topK,CI95_low,CI95_high,significant
+BPIC20_D,404,LSTM,+ layer (rules v3) vs alone,279.84,-72.02,571.78,False
+BPIC20_D,404,LSTM,+ layer (rules v3) vs × amount,1673.97,834.69,2191.33,True
+BPIC20_D,404,LSTM,+ layer (rules v3) vs rules v3 alone × money,-472.04,-1249.24,10.74,False
+BPIC20_D,404,LSTM,+ layer (rules v3) vs + layer (rules v1),296.42,39.9,694.01,True
+BPIC20_D,404,LSTM,+ layer + exploration vs alone,18.43,-76.48,457.68,False
+BPIC20_D,404,LSTM,+ layer + exploration vs rules v3 alone × money,-733.46,-1388.16,-5.81,True
+BPIC20_D,404,GAMA,+ layer (rules v3) vs alone,1621.39,443.81,3046.71,True
+BPIC20_D,404,GAMA,+ layer (rules v3) vs × amount,1658.02,944.41,2481.59,True
+BPIC20_D,404,GAMA,+ layer (rules v3) vs rules v3 alone × money,-123.42,-606.07,272.18,False
+BPIC20_D,404,GAMA,+ layer (rules v3) vs + layer (rules v1),1027.93,408.36,1684.44,True
+BPIC20_D,404,GAMA,+ layer + exploration vs alone,1477.91,379.81,2965.15,True
+BPIC20_D,404,GAMA,+ layer + exploration vs rules v3 alone × money,-266.9,-673.17,243.17,False
+BPIC20_D,404,DAE,+ layer (rules v3) vs alone,3055.25,1579.38,4515.99,True
+BPIC20_D,404,DAE,+ layer (rules v3) vs × amount,2146.01,1186.67,2950.96,True
+BPIC20_D,404,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-388.72,66.84,False
+BPIC20_D,404,DAE,+ layer (rules v3) vs + layer (rules v1),1151.35,450.7,1930.06,True
+BPIC20_D,404,DAE,+ layer + exploration vs alone,2750.34,1447.67,4423.82,True
+BPIC20_D,404,DAE,+ layer + exploration vs rules v3 alone × money,-304.91,-694.16,0.0,False
+BPIC20_D,505,LSTM,+ layer (rules v3) vs alone,724.96,-87.25,1727.83,False
+BPIC20_D,505,LSTM,+ layer (rules v3) vs × amount,1602.94,750.65,2163.45,True
+BPIC20_D,505,LSTM,+ layer (rules v3) vs rules v3 alone × money,-569.28,-1398.27,-12.16,True
+BPIC20_D,505,LSTM,+ layer (rules v3) vs + layer (rules v1),410.47,11.19,1459.94,True
+BPIC20_D,505,LSTM,+ layer + exploration vs alone,388.46,-104.32,1419.61,False
+BPIC20_D,505,LSTM,+ layer + exploration vs rules v3 alone × money,-905.78,-1767.24,-38.63,True
+BPIC20_D,505,GAMA,+ layer (rules v3) vs alone,1549.12,617.97,2449.05,True
+BPIC20_D,505,GAMA,+ layer (rules v3) vs × amount,1670.06,821.66,2688.48,True
+BPIC20_D,505,GAMA,+ layer (rules v3) vs rules v3 alone × money,-150.66,-825.43,38.44,False
+BPIC20_D,505,GAMA,+ layer (rules v3) vs + layer (rules v1),1451.76,383.08,2792.27,True
+BPIC20_D,505,GAMA,+ layer + exploration vs alone,1139.46,472.66,2212.16,True
+BPIC20_D,505,GAMA,+ layer + exploration vs rules v3 alone × money,-560.33,-1108.35,16.3,False
+BPIC20_D,505,DAE,+ layer (rules v3) vs alone,4142.1,1991.32,7419.52,True
+BPIC20_D,505,DAE,+ layer (rules v3) vs × amount,2271.55,1155.93,3591.8,True
+BPIC20_D,505,DAE,+ layer (rules v3) vs rules v3 alone × money,-286.74,-451.99,24.32,False
+BPIC20_D,505,DAE,+ layer (rules v3) vs + layer (rules v1),1317.85,443.91,2684.64,True
+BPIC20_D,505,DAE,+ layer + exploration vs alone,4090.89,1817.45,7359.0,True
+BPIC20_D,505,DAE,+ layer + exploration vs rules v3 alone × money,-337.94,-640.59,0.0,False
+BPIC20_D,606,LSTM,+ layer (rules v3) vs alone,413.55,-48.6,1256.27,False
+BPIC20_D,606,LSTM,+ layer (rules v3) vs × amount,1215.81,749.69,1656.14,True
+BPIC20_D,606,LSTM,+ layer (rules v3) vs rules v3 alone × money,-1572.03,-3329.09,-384.04,True
+BPIC20_D,606,LSTM,+ layer (rules v3) vs + layer (rules v1),537.41,-0.0,1468.0,False
+BPIC20_D,606,LSTM,+ layer + exploration vs alone,359.76,-125.92,1251.06,False
+BPIC20_D,606,LSTM,+ layer + exploration vs rules v3 alone × money,-1625.82,-3342.52,-394.45,True
+BPIC20_D,606,GAMA,+ layer (rules v3) vs alone,1890.03,796.16,3749.94,True
+BPIC20_D,606,GAMA,+ layer (rules v3) vs × amount,2530.68,1418.49,4386.55,True
+BPIC20_D,606,GAMA,+ layer (rules v3) vs rules v3 alone × money,-257.15,-514.3,154.34,False
+BPIC20_D,606,GAMA,+ layer (rules v3) vs + layer (rules v1),1913.8,847.99,3987.84,True
+BPIC20_D,606,GAMA,+ layer + exploration vs alone,1866.71,660.4,3722.03,True
+BPIC20_D,606,GAMA,+ layer + exploration vs rules v3 alone × money,-280.46,-771.45,58.75,False
+BPIC20_D,606,DAE,+ layer (rules v3) vs alone,3206.59,1607.28,4931.36,True
+BPIC20_D,606,DAE,+ layer (rules v3) vs × amount,2787.83,1426.98,4456.27,True
+BPIC20_D,606,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-322.17,43.13,False
+BPIC20_D,606,DAE,+ layer (rules v3) vs + layer (rules v1),2207.48,854.49,3964.35,True
+BPIC20_D,606,DAE,+ layer + exploration vs alone,2836.43,1398.2,4812.94,True
+BPIC20_D,606,DAE,+ layer + exploration vs rules v3 alone × money,-370.16,-830.9,23.32,False
+BPIC20_I,404,LSTM,+ layer (rules v3) vs alone,49281.75,17021.37,86104.21,True
+BPIC20_I,404,LSTM,+ layer (rules v3) vs × amount,56408.91,24873.07,93627.6,True
+BPIC20_I,404,LSTM,+ layer (rules v3) vs rules v3 alone × money,103.57,-4330.77,129.95,False
+BPIC20_I,404,LSTM,+ layer (rules v3) vs + layer (rules v1),31223.95,13391.12,64162.56,True
+BPIC20_I,404,LSTM,+ layer + exploration vs alone,45562.06,15527.84,85818.7,True
+BPIC20_I,404,LSTM,+ layer + exploration vs rules v3 alone × money,-3616.12,-8206.64,0.0,False
+BPIC20_I,404,GAMA,+ layer (rules v3) vs alone,59516.44,27369.33,99110.48,True
+BPIC20_I,404,GAMA,+ layer (rules v3) vs × amount,19944.69,11040.34,28515.67,True
+BPIC20_I,404,GAMA,+ layer (rules v3) vs rules v3 alone × money,103.57,-0.0,103.57,False
+BPIC20_I,404,GAMA,+ layer (rules v3) vs + layer (rules v1),13040.21,6714.12,21950.74,True
+BPIC20_I,404,GAMA,+ layer + exploration vs alone,58981.97,27363.49,99108.53,True
+BPIC20_I,404,GAMA,+ layer + exploration vs rules v3 alone × money,-430.9,-902.83,0.0,False
+BPIC20_I,404,DAE,+ layer (rules v3) vs alone,59412.87,27366.74,99108.53,True
+BPIC20_I,404,DAE,+ layer (rules v3) vs × amount,32099.23,17733.23,54470.37,True
+BPIC20_I,404,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-300.94,0.0,False
+BPIC20_I,404,DAE,+ layer (rules v3) vs + layer (rules v1),19949.79,9705.13,36084.59,True
+BPIC20_I,404,DAE,+ layer + exploration vs alone,58981.97,27257.28,98815.11,True
+BPIC20_I,404,DAE,+ layer + exploration vs rules v3 alone × money,-430.9,-902.83,0.0,False
+BPIC20_I,505,LSTM,+ layer (rules v3) vs alone,56771.75,22719.01,99559.44,True
+BPIC20_I,505,LSTM,+ layer (rules v3) vs × amount,58699.73,24408.18,100640.24,True
+BPIC20_I,505,LSTM,+ layer (rules v3) vs rules v3 alone × money,0.0,-342.07,978.43,False
+BPIC20_I,505,LSTM,+ layer (rules v3) vs + layer (rules v1),28338.29,8622.87,48671.75,True
+BPIC20_I,505,LSTM,+ layer + exploration vs alone,55499.04,22577.06,99210.53,True
+BPIC20_I,505,LSTM,+ layer + exploration vs rules v3 alone × money,-1272.71,-3497.13,186.66,False
+BPIC20_I,505,GAMA,+ layer (rules v3) vs alone,66822.52,33137.03,110851.82,True
+BPIC20_I,505,GAMA,+ layer (rules v3) vs × amount,17869.67,9448.3,27523.62,True
+BPIC20_I,505,GAMA,+ layer (rules v3) vs rules v3 alone × money,0.0,-0.0,233.29,False
+BPIC20_I,505,GAMA,+ layer (rules v3) vs + layer (rules v1),13802.3,5308.92,24101.42,True
+BPIC20_I,505,GAMA,+ layer + exploration vs alone,65399.4,32913.81,110008.62,True
+BPIC20_I,505,GAMA,+ layer + exploration vs rules v3 alone × money,-1423.12,-3104.32,0.0,False
+BPIC20_I,505,DAE,+ layer (rules v3) vs alone,66439.31,33083.45,110380.84,True
+BPIC20_I,505,DAE,+ layer (rules v3) vs × amount,32381.66,13771.35,51223.27,True
+BPIC20_I,505,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-466.93,1956.85,False
+BPIC20_I,505,DAE,+ layer (rules v3) vs + layer (rules v1),25488.74,9062.06,47144.8,True
+BPIC20_I,505,DAE,+ layer + exploration vs alone,65016.19,32466.94,109320.86,True
+BPIC20_I,505,DAE,+ layer + exploration vs rules v3 alone × money,-1423.12,-3497.13,0.0,False
+BPIC20_I,606,LSTM,+ layer (rules v3) vs alone,51844.45,16089.81,98748.65,True
+BPIC20_I,606,LSTM,+ layer (rules v3) vs × amount,34815.43,17121.74,90846.41,True
+BPIC20_I,606,LSTM,+ layer (rules v3) vs rules v3 alone × money,-206.01,-618.03,315.2,False
+BPIC20_I,606,LSTM,+ layer (rules v3) vs + layer (rules v1),16819.03,7229.97,43925.28,True
+BPIC20_I,606,LSTM,+ layer + exploration vs alone,51246.01,15694.02,98395.76,True
+BPIC20_I,606,LSTM,+ layer + exploration vs rules v3 alone × money,-804.45,-1621.81,101.64,False
+BPIC20_I,606,GAMA,+ layer (rules v3) vs alone,59073.38,22879.66,105732.38,True
+BPIC20_I,606,GAMA,+ layer (rules v3) vs × amount,15701.35,9344.46,25973.19,True
+BPIC20_I,606,GAMA,+ layer (rules v3) vs rules v3 alone × money,0.0,-74.44,0.0,False
+BPIC20_I,606,GAMA,+ layer (rules v3) vs + layer (rules v1),11332.75,5616.32,19777.86,True
+BPIC20_I,606,GAMA,+ layer + exploration vs alone,58190.44,22722.06,105689.03,True
+BPIC20_I,606,GAMA,+ layer + exploration vs rules v3 alone × money,-882.94,-1584.57,0.0,False
+BPIC20_I,606,DAE,+ layer (rules v3) vs alone,59073.38,22719.44,105731.49,True
+BPIC20_I,606,DAE,+ layer (rules v3) vs × amount,29813.6,13796.53,52064.16,True
+BPIC20_I,606,DAE,+ layer (rules v3) vs rules v3 alone × money,0.0,-190.2,503.34,False
+BPIC20_I,606,DAE,+ layer (rules v3) vs + layer (rules v1),18799.37,8454.59,33810.26,True
+BPIC20_I,606,DAE,+ layer + exploration vs alone,58693.78,22686.38,105729.53,True
+BPIC20_I,606,DAE,+ layer + exploration vs rules v3 alone × money,-379.6,-713.13,503.34,False
+BPIC20_PR,404,LSTM,+ layer (rules v3) vs alone,16533.06,833.56,43420.3,True
+BPIC20_PR,404,LSTM,+ layer (rules v3) vs × amount,2356.68,296.31,7105.4,True
+BPIC20_PR,404,LSTM,+ layer (rules v3) vs rules v3 alone × money,0.0,-592.66,0.0,False
+BPIC20_PR,404,LSTM,+ layer (rules v3) vs + layer (rules v1),2061.11,0.0,8821.91,False
+BPIC20_PR,404,LSTM,+ layer + exploration vs alone,16236.73,537.23,43368.12,True
+BPIC20_PR,404,LSTM,+ layer + exploration vs rules v3 alone × money,-296.33,-888.99,0.0,False
+BPIC20_PR,404,GAMA,+ layer (rules v3) vs alone,21045.62,2955.53,48995.7,True
+BPIC20_PR,404,GAMA,+ layer (rules v3) vs × amount,16828.63,1226.47,45553.36,True
+BPIC20_PR,404,GAMA,+ layer (rules v3) vs rules v3 alone × money,0.0,-0.0,0.0,False
+BPIC20_PR,404,GAMA,+ layer (rules v3) vs + layer (rules v1),18106.48,2302.01,45337.29,True
+BPIC20_PR,404,GAMA,+ layer + exploration vs alone,21045.62,2955.53,48995.7,True
+BPIC20_PR,404,GAMA,+ layer + exploration vs rules v3 alone × money,0.0,-0.0,0.0,False
+BPIC20_PR,404,DAE,+ layer (rules v3) vs alone,22619.04,3927.26,48202.5,True
+BPIC20_PR,404,DAE,+ layer (rules v3) vs × amount,5281.02,1425.23,10299.26,True
+BPIC20_PR,404,DAE,+ layer (rules v3) vs rules v3 alone × money,0.0,-0.0,0.0,False
+BPIC20_PR,404,DAE,+ layer (rules v3) vs + layer (rules v1),3634.52,832.59,10514.82,True
+BPIC20_PR,404,DAE,+ layer + exploration vs alone,22619.04,3927.26,48202.5,True
+BPIC20_PR,404,DAE,+ layer + exploration vs rules v3 alone × money,0.0,-0.0,0.0,False
+BPIC20_PR,505,LSTM,+ layer (rules v3) vs alone,10842.11,0.0,28561.47,False
+BPIC20_PR,505,LSTM,+ layer (rules v3) vs × amount,4518.01,372.65,12217.33,True
+BPIC20_PR,505,LSTM,+ layer (rules v3) vs rules v3 alone × money,-403.96,-1169.24,0.0,False
+BPIC20_PR,505,LSTM,+ layer (rules v3) vs + layer (rules v1),10842.11,0.0,28306.18,False
+BPIC20_PR,505,LSTM,+ layer + exploration vs alone,10579.34,0.0,28306.18,False
+BPIC20_PR,505,LSTM,+ layer + exploration vs rules v3 alone × money,-666.73,-1491.22,0.0,False
+BPIC20_PR,505,GAMA,+ layer (rules v3) vs alone,16391.65,1419.52,35965.15,True
+BPIC20_PR,505,GAMA,+ layer (rules v3) vs × amount,6536.16,819.17,16834.16,True
+BPIC20_PR,505,GAMA,+ layer (rules v3) vs rules v3 alone × money,0.0,-0.0,0.0,False
+BPIC20_PR,505,GAMA,+ layer (rules v3) vs + layer (rules v1),1390.57,148.87,3200.63,True
+BPIC20_PR,505,GAMA,+ layer + exploration vs alone,16391.65,1419.52,35965.15,True
+BPIC20_PR,505,GAMA,+ layer + exploration vs rules v3 alone × money,0.0,-0.0,0.0,False
+BPIC20_PR,505,DAE,+ layer (rules v3) vs alone,14519.75,2251.38,33570.89,True
+BPIC20_PR,505,DAE,+ layer (rules v3) vs × amount,5645.81,666.54,12011.88,True
+BPIC20_PR,505,DAE,+ layer (rules v3) vs rules v3 alone × money,0.0,-148.87,0.0,False
+BPIC20_PR,505,DAE,+ layer (rules v3) vs + layer (rules v1),1390.57,148.87,4952.14,True
+BPIC20_PR,505,DAE,+ layer + exploration vs alone,14519.75,2251.38,33570.89,True
+BPIC20_PR,505,DAE,+ layer + exploration vs rules v3 alone × money,0.0,-148.87,0.0,False
+BPIC20_PR,606,LSTM,+ layer (rules v3) vs alone,8276.87,675.99,20152.55,True
+BPIC20_PR,606,LSTM,+ layer (rules v3) vs × amount,9255.46,1641.04,20737.83,True
+BPIC20_PR,606,LSTM,+ layer (rules v3) vs rules v3 alone × money,-14.2,-42.6,0.0,False
+BPIC20_PR,606,LSTM,+ layer (rules v3) vs + layer (rules v1),4325.54,338.17,10340.35,True
+BPIC20_PR,606,LSTM,+ layer + exploration vs alone,8291.07,676.35,20166.39,True
+BPIC20_PR,606,LSTM,+ layer + exploration vs rules v3 alone × money,0.0,-42.6,0.0,False
+BPIC20_PR,606,GAMA,+ layer (rules v3) vs alone,8828.91,1214.16,20628.13,True
+BPIC20_PR,606,GAMA,+ layer (rules v3) vs × amount,4951.75,853.1,10931.98,True
+BPIC20_PR,606,GAMA,+ layer (rules v3) vs rules v3 alone × money,-14.2,-42.6,0.0,False
+BPIC20_PR,606,GAMA,+ layer (rules v3) vs + layer (rules v1),3625.91,437.62,7391.93,True
+BPIC20_PR,606,GAMA,+ layer + exploration vs alone,8828.91,1214.16,20628.13,True
+BPIC20_PR,606,GAMA,+ layer + exploration vs rules v3 alone × money,-14.2,-42.6,0.0,False
+BPIC20_PR,606,DAE,+ layer (rules v3) vs alone,9715.71,2112.36,21658.49,True
+BPIC20_PR,606,DAE,+ layer (rules v3) vs × amount,2727.51,641.45,6488.75,True
+BPIC20_PR,606,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-0.0,0.0,False
+BPIC20_PR,606,DAE,+ layer (rules v3) vs + layer (rules v1),3640.11,426.55,6874.37,True
+BPIC20_PR,606,DAE,+ layer + exploration vs alone,9715.71,2112.36,21658.49,True
+BPIC20_PR,606,DAE,+ layer + exploration vs rules v3 alone × money,-0.0,-0.0,0.0,False
+BPIC20_R,404,LSTM,+ layer (rules v3) vs alone,1103.37,-162.12,3128.07,False
+BPIC20_R,404,LSTM,+ layer (rules v3) vs × amount,2869.25,1164.94,4994.13,True
+BPIC20_R,404,LSTM,+ layer (rules v3) vs rules v3 alone × money,-729.9,-1497.62,-81.95,True
+BPIC20_R,404,LSTM,+ layer (rules v3) vs + layer (rules v1),945.0,-228.74,3127.16,False
+BPIC20_R,404,LSTM,+ layer + exploration vs alone,1246.21,-70.67,3078.09,False
+BPIC20_R,404,LSTM,+ layer + exploration vs rules v3 alone × money,-587.05,-1548.58,-53.57,True
+BPIC20_R,404,GAMA,+ layer (rules v3) vs alone,3601.42,1121.76,6957.73,True
+BPIC20_R,404,GAMA,+ layer (rules v3) vs × amount,3570.2,1584.28,5989.03,True
+BPIC20_R,404,GAMA,+ layer (rules v3) vs rules v3 alone × money,-28.94,-218.74,443.28,False
+BPIC20_R,404,GAMA,+ layer (rules v3) vs + layer (rules v1),1370.66,217.26,3150.02,True
+BPIC20_R,404,GAMA,+ layer + exploration vs alone,3567.94,1095.61,6894.33,True
+BPIC20_R,404,GAMA,+ layer + exploration vs rules v3 alone × money,-62.42,-230.56,422.17,False
+BPIC20_R,404,DAE,+ layer (rules v3) vs alone,4616.22,1967.49,7837.8,True
+BPIC20_R,404,DAE,+ layer (rules v3) vs × amount,3515.07,1527.0,5876.46,True
+BPIC20_R,404,DAE,+ layer (rules v3) vs rules v3 alone × money,-84.07,-252.22,0.0,False
+BPIC20_R,404,DAE,+ layer (rules v3) vs + layer (rules v1),2213.79,579.54,4429.81,True
+BPIC20_R,404,DAE,+ layer + exploration vs alone,4616.22,1924.94,7804.23,True
+BPIC20_R,404,DAE,+ layer + exploration vs rules v3 alone × money,-84.07,-256.82,0.0,False
+BPIC20_R,505,LSTM,+ layer (rules v3) vs alone,30033.38,0.0,89522.05,False
+BPIC20_R,505,LSTM,+ layer (rules v3) vs × amount,1665.15,681.97,3082.63,True
+BPIC20_R,505,LSTM,+ layer (rules v3) vs rules v3 alone × money,-795.61,-1994.78,0.0,False
+BPIC20_R,505,LSTM,+ layer (rules v3) vs + layer (rules v1),30033.38,0.0,89523.38,False
+BPIC20_R,505,LSTM,+ layer + exploration vs alone,30033.38,0.0,89522.05,False
+BPIC20_R,505,LSTM,+ layer + exploration vs rules v3 alone × money,-795.61,-2075.23,0.0,False
+BPIC20_R,505,GAMA,+ layer (rules v3) vs alone,32243.63,889.39,92515.65,True
+BPIC20_R,505,GAMA,+ layer (rules v3) vs × amount,4119.72,1574.12,7826.6,True
+BPIC20_R,505,GAMA,+ layer (rules v3) vs rules v3 alone × money,-437.99,-1538.44,461.63,False
+BPIC20_R,505,GAMA,+ layer (rules v3) vs + layer (rules v1),31356.44,706.44,91021.65,True
+BPIC20_R,505,GAMA,+ layer + exploration vs alone,32243.63,838.58,92476.95,True
+BPIC20_R,505,GAMA,+ layer + exploration vs rules v3 alone × money,-437.99,-1751.95,334.0,False
+BPIC20_R,505,DAE,+ layer (rules v3) vs alone,35197.7,2879.47,94837.38,True
+BPIC20_R,505,DAE,+ layer (rules v3) vs × amount,2974.59,1133.59,5074.3,True
+BPIC20_R,505,DAE,+ layer (rules v3) vs rules v3 alone × money,659.65,-232.16,1940.26,False
+BPIC20_R,505,DAE,+ layer (rules v3) vs + layer (rules v1),3311.69,1182.26,5347.57,True
+BPIC20_R,505,DAE,+ layer + exploration vs alone,34180.43,2635.86,94224.09,True
+BPIC20_R,505,DAE,+ layer + exploration vs rules v3 alone × money,-357.62,-763.62,1175.64,False
+BPIC20_R,606,LSTM,+ layer (rules v3) vs alone,189.58,-0.0,2418.91,False
+BPIC20_R,606,LSTM,+ layer (rules v3) vs × amount,287.06,-2502.99,3715.24,False
+BPIC20_R,606,LSTM,+ layer (rules v3) vs rules v3 alone × money,-2039.74,-6178.23,0.0,False
+BPIC20_R,606,LSTM,+ layer (rules v3) vs + layer (rules v1),189.58,-0.0,2418.91,False
+BPIC20_R,606,LSTM,+ layer + exploration vs alone,189.58,-0.0,573.48,False
+BPIC20_R,606,LSTM,+ layer + exploration vs rules v3 alone × money,-2039.74,-6187.08,0.0,False
+BPIC20_R,606,GAMA,+ layer (rules v3) vs alone,1256.28,413.4,2407.71,True
+BPIC20_R,606,GAMA,+ layer (rules v3) vs × amount,3145.61,1388.92,5025.15,True
+BPIC20_R,606,GAMA,+ layer (rules v3) vs rules v3 alone × money,-1971.9,-6119.23,135.7,False
+BPIC20_R,606,GAMA,+ layer (rules v3) vs + layer (rules v1),1767.6,530.24,3444.79,True
+BPIC20_R,606,GAMA,+ layer + exploration vs alone,1256.28,406.48,2407.71,True
+BPIC20_R,606,GAMA,+ layer + exploration vs rules v3 alone × money,-1971.9,-6119.23,135.7,False
+BPIC20_R,606,DAE,+ layer (rules v3) vs alone,3750.38,-635.7,8609.4,False
+BPIC20_R,606,DAE,+ layer (rules v3) vs × amount,3750.38,-835.33,8379.45,False
+BPIC20_R,606,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-4079.49,2734.26,False
+BPIC20_R,606,DAE,+ layer (rules v3) vs + layer (rules v1),3407.07,601.81,8198.73,True
+BPIC20_R,606,DAE,+ layer + exploration vs alone,1710.63,-1580.68,5558.46,False
+BPIC20_R,606,DAE,+ layer + exploration vs rules v3 alone × money,-2039.74,-6178.23,1240.29,False

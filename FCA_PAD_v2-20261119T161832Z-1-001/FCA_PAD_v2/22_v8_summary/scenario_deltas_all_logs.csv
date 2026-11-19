@@ -1,0 +1,121 @@
+log,seed,scenario,comparison,delta_EUR_money_topK,delta_MoneyRecall,CI95_low,CI95_high,significant
+BPIC20_D,707,covered,two-lane vs rules alone × money,-124.7165,-0.0477,-374.1494,0.0,False
+BPIC20_D,707,covered,two-lane vs GAMA alone,1318.2707,0.504,410.2971,2833.815,True
+BPIC20_D,707,covered,"two-lane vs GAMA + layer (blended, v7)",583.2949,0.223,-32.711,1853.5259,False
+BPIC20_D,707,covered,two-lane vs GAMA + layer + exploration (v7),576.2108,0.2203,-0.0,1853.3488,False
+BPIC20_D,707,covered,"two-lane vs two-lane, equal-weight rules",1188.2497,0.4543,648.2338,1804.5263,True
+BPIC20_D,707,dodge,two-lane vs rules alone × money,0.0,0.0,0.0,0.0,False
+BPIC20_D,707,dodge,two-lane vs GAMA alone,-79.65,-0.0153,-659.4843,-11.65,True
+BPIC20_D,707,dodge,"two-lane vs GAMA + layer (blended, v7)",-111.9509,-0.0215,-263.8537,0.0,False
+BPIC20_D,707,dodge,two-lane vs GAMA + layer + exploration (v7),-111.9509,-0.0215,-263.8537,0.0,False
+BPIC20_D,707,dodge,"two-lane vs two-lane, equal-weight rules",0.0,0.0,0.0,0.0,False
+BPIC20_D,707,new,two-lane vs rules alone × money,233.2578,0.0736,-65.6028,562.9128,False
+BPIC20_D,707,new,two-lane vs GAMA alone,-760.996,-0.2402,-1472.1661,-361.6156,True
+BPIC20_D,707,new,"two-lane vs GAMA + layer (blended, v7)",157.4943,0.0497,-159.6113,502.6464,False
+BPIC20_D,707,new,two-lane vs GAMA + layer + exploration (v7),-113.1591,-0.0357,-435.0871,228.417,False
+BPIC20_D,707,new,"two-lane vs two-lane, equal-weight rules",212.8555,0.0672,-40.8047,582.9909,False
+BPIC20_D,707,mixed,two-lane vs rules alone × money,221.465,0.0833,0.0,596.4413,False
+BPIC20_D,707,mixed,two-lane vs GAMA alone,754.1612,0.2837,-179.5748,2156.8691,False
+BPIC20_D,707,mixed,"two-lane vs GAMA + layer (blended, v7)",764.9647,0.2878,-65.422,2104.8744,False
+BPIC20_D,707,mixed,two-lane vs GAMA + layer + exploration (v7),576.2108,0.2168,-98.133,1728.6323,False
+BPIC20_D,707,mixed,"two-lane vs two-lane, equal-weight rules",647.9031,0.2437,213.7596,1182.2463,True
+BPIC20_D,808,covered,two-lane vs rules alone × money,-138.0793,-0.0263,-414.2379,0.0,False
+BPIC20_D,808,covered,two-lane vs GAMA alone,1124.1929,0.2138,442.5777,3432.9685,True
+BPIC20_D,808,covered,"two-lane vs GAMA + layer (blended, v7)",-87.9291,-0.0167,-384.0657,382.6659,False
+BPIC20_D,808,covered,two-lane vs GAMA + layer + exploration (v7),8.0616,0.0015,-276.1586,438.4227,False
+BPIC20_D,808,covered,"two-lane vs two-lane, equal-weight rules",3965.9682,0.7543,1211.0802,6354.1805,True
+BPIC20_D,808,dodge,two-lane vs rules alone × money,0.0,0.0,0.0,0.0,False
+BPIC20_D,808,dodge,two-lane vs GAMA alone,-792.4709,-0.1769,-1569.5719,0.0,False
+BPIC20_D,808,dodge,"two-lane vs GAMA + layer (blended, v7)",-44.346,-0.0099,-114.126,0.0,False
+BPIC20_D,808,dodge,two-lane vs GAMA + layer + exploration (v7),-44.346,-0.0099,-114.126,0.0,False
+BPIC20_D,808,dodge,"two-lane vs two-lane, equal-weight rules",45.1932,0.0101,-89.6711,225.2508,False
+BPIC20_D,808,new,two-lane vs rules alone × money,18.5156,0.0039,-111.7369,157.2906,False
+BPIC20_D,808,new,two-lane vs GAMA alone,-1259.7061,-0.262,-2544.0679,-348.3342,True
+BPIC20_D,808,new,"two-lane vs GAMA + layer (blended, v7)",-114.8952,-0.0239,-326.7019,32.8289,False
+BPIC20_D,808,new,two-lane vs GAMA + layer + exploration (v7),-271.1466,-0.0564,-469.8347,-26.7697,True
+BPIC20_D,808,new,"two-lane vs two-lane, equal-weight rules",-32.9226,-0.0068,-385.2889,171.1891,False
+BPIC20_D,808,mixed,two-lane vs rules alone × money,146.8732,0.0377,0.0,366.9287,False
+BPIC20_D,808,mixed,two-lane vs GAMA alone,111.5518,0.0286,-611.3577,1487.8865,False
+BPIC20_D,808,mixed,"two-lane vs GAMA + layer (blended, v7)",176.6787,0.0453,-176.9036,538.4976,False
+BPIC20_D,808,mixed,two-lane vs GAMA + layer + exploration (v7),-196.1072,-0.0503,-700.0605,383.3369,False
+BPIC20_D,808,mixed,"two-lane vs two-lane, equal-weight rules",1289.7599,0.3308,285.4672,2391.8788,True
+BPIC20_D,909,covered,two-lane vs rules alone × money,-226.2012,-0.1047,-505.3786,0.0,False
+BPIC20_D,909,covered,two-lane vs GAMA alone,609.0996,0.282,124.3097,1342.922,True
+BPIC20_D,909,covered,"two-lane vs GAMA + layer (blended, v7)",-391.2647,-0.1812,-686.348,0.0,False
+BPIC20_D,909,covered,two-lane vs GAMA + layer + exploration (v7),-267.945,-0.1241,-612.5709,0.0,False
+BPIC20_D,909,covered,"two-lane vs two-lane, equal-weight rules",1298.2878,0.6011,807.7006,2004.1006,True
+BPIC20_D,909,dodge,two-lane vs rules alone × money,0.0,0.0,0.0,0.0,False
+BPIC20_D,909,dodge,two-lane vs GAMA alone,-378.6254,-0.2298,-880.8106,193.782,False
+BPIC20_D,909,dodge,"two-lane vs GAMA + layer (blended, v7)",-54.4535,-0.0331,-141.9664,0.0,False
+BPIC20_D,909,dodge,two-lane vs GAMA + layer + exploration (v7),-54.4535,-0.0331,-141.9664,0.0,False
+BPIC20_D,909,dodge,"two-lane vs two-lane, equal-weight rules",106.2842,0.0645,0.0,318.8527,False
+BPIC20_D,909,new,two-lane vs rules alone × money,8.013,0.0019,0.0,24.0389,False
+BPIC20_D,909,new,two-lane vs GAMA alone,-753.6184,-0.1767,-1506.7056,-213.2254,True
+BPIC20_D,909,new,"two-lane vs GAMA + layer (blended, v7)",8.013,0.0019,-0.0,24.0389,False
+BPIC20_D,909,new,two-lane vs GAMA + layer + exploration (v7),0.0,0.0,-16.0259,8.013,False
+BPIC20_D,909,new,"two-lane vs two-lane, equal-weight rules",8.013,0.0019,-0.0,24.0389,False
+BPIC20_D,909,mixed,two-lane vs rules alone × money,-76.335,-0.0406,-229.005,0.0,False
+BPIC20_D,909,mixed,two-lane vs GAMA alone,-162.2119,-0.0863,-796.4823,364.274,False
+BPIC20_D,909,mixed,"two-lane vs GAMA + layer (blended, v7)",-139.0879,-0.074,-291.277,103.0062,False
+BPIC20_D,909,mixed,two-lane vs GAMA + layer + exploration (v7),-101.164,-0.0538,-251.9917,114.7461,False
+BPIC20_D,909,mixed,"two-lane vs two-lane, equal-weight rules",553.5321,0.2945,226.7833,1014.4357,True
+BPIC20_I,707,covered,two-lane vs rules alone × money,0.0,0.0,0.0,0.0,False
+BPIC20_I,707,covered,two-lane vs GAMA alone,39942.3225,0.9189,10059.3306,86826.467,True
+BPIC20_I,707,covered,"two-lane vs GAMA + layer (blended, v7)",0.0,0.0,-4.2937,0.0,False
+BPIC20_I,707,covered,two-lane vs GAMA + layer + exploration (v7),0.0,0.0,-4.2937,0.0,False
+BPIC20_I,707,covered,"two-lane vs two-lane, equal-weight rules",1944.9774,0.0447,576.0835,3635.3538,True
+BPIC20_I,707,dodge,two-lane vs rules alone × money,0.0,0.0,0.0,0.0,False
+BPIC20_I,707,dodge,two-lane vs GAMA alone,-329.076,-0.0133,-5648.163,82.6484,False
+BPIC20_I,707,dodge,"two-lane vs GAMA + layer (blended, v7)",0.0,0.0,-9893.2129,0.0,False
+BPIC20_I,707,dodge,two-lane vs GAMA + layer + exploration (v7),0.0,0.0,-3297.7376,0.0,False
+BPIC20_I,707,dodge,"two-lane vs two-lane, equal-weight rules",-1794.4805,-0.0724,-5466.09,82.6484,False
+BPIC20_I,707,new,two-lane vs rules alone × money,-477.3293,-0.0156,-3534.4135,1649.6592,False
+BPIC20_I,707,new,two-lane vs GAMA alone,-1953.8942,-0.0637,-11749.3572,8579.8133,False
+BPIC20_I,707,new,"two-lane vs GAMA + layer (blended, v7)",-477.3293,-0.0156,-7225.739,5670.5435,False
+BPIC20_I,707,new,two-lane vs GAMA + layer + exploration (v7),1949.4102,0.0635,-3178.4426,9512.8354,False
+BPIC20_I,707,new,"two-lane vs two-lane, equal-weight rules",4900.3093,0.1597,0.0,13164.6481,False
+BPIC20_I,707,mixed,two-lane vs rules alone × money,-1536.2798,-0.0445,-4608.8393,0.0,False
+BPIC20_I,707,mixed,two-lane vs GAMA alone,12533.088,0.3632,-2557.5364,31798.2509,False
+BPIC20_I,707,mixed,"two-lane vs GAMA + layer (blended, v7)",-1536.2798,-0.0445,-6538.7626,0.0,False
+BPIC20_I,707,mixed,two-lane vs GAMA + layer + exploration (v7),-1536.2798,-0.0445,-4608.8393,0.0,False
+BPIC20_I,707,mixed,"two-lane vs two-lane, equal-weight rules",678.5516,0.0197,0.0,4006.1225,False
+BPIC20_I,808,covered,two-lane vs rules alone × money,0.0,0.0,0.0,0.0,False
+BPIC20_I,808,covered,two-lane vs GAMA alone,44052.6292,0.9466,17499.5397,78745.7223,True
+BPIC20_I,808,covered,"two-lane vs GAMA + layer (blended, v7)",179.2184,0.0039,-0.0,537.6552,False
+BPIC20_I,808,covered,two-lane vs GAMA + layer + exploration (v7),179.2184,0.0039,-0.0,537.6552,False
+BPIC20_I,808,covered,"two-lane vs two-lane, equal-weight rules",2061.2732,0.0443,352.3278,4046.0324,True
+BPIC20_I,808,dodge,two-lane vs rules alone × money,0.0,0.0,-9111.4,0.0,False
+BPIC20_I,808,dodge,two-lane vs GAMA alone,3893.016,0.1878,712.9434,9023.8415,True
+BPIC20_I,808,dodge,"two-lane vs GAMA + layer (blended, v7)",0.0,0.0,-9111.4,0.0,False
+BPIC20_I,808,dodge,two-lane vs GAMA + layer + exploration (v7),0.0,0.0,0.0,4555.7,False
+BPIC20_I,808,dodge,"two-lane vs two-lane, equal-weight rules",0.0,0.0,-0.0,4555.7,False
+BPIC20_I,808,new,two-lane vs rules alone × money,975.0166,0.0808,0.0,2925.0497,False
+BPIC20_I,808,new,two-lane vs GAMA alone,-2174.9365,-0.1803,-5086.7999,-445.1074,True
+BPIC20_I,808,new,"two-lane vs GAMA + layer (blended, v7)",975.0166,0.0808,0.0,2925.0497,False
+BPIC20_I,808,new,two-lane vs GAMA + layer + exploration (v7),0.0,0.0,-975.0166,975.0166,False
+BPIC20_I,808,new,"two-lane vs two-lane, equal-weight rules",0.0,0.0,-975.0166,975.0166,False
+BPIC20_I,808,mixed,two-lane vs rules alone × money,0.0,0.0,-4555.7,0.0,False
+BPIC20_I,808,mixed,two-lane vs GAMA alone,15274.0597,0.5085,4073.5094,31067.4271,True
+BPIC20_I,808,mixed,"two-lane vs GAMA + layer (blended, v7)",0.0,0.0,-0.0,0.0,False
+BPIC20_I,808,mixed,two-lane vs GAMA + layer + exploration (v7),0.0,0.0,-0.0,0.0,False
+BPIC20_I,808,mixed,"two-lane vs two-lane, equal-weight rules",239.6506,0.008,-0.0,958.6026,False
+BPIC20_I,909,covered,two-lane vs rules alone × money,0.0,0.0,0.0,0.0,False
+BPIC20_I,909,covered,two-lane vs GAMA alone,69829.9766,0.9608,32099.6837,119339.5921,True
+BPIC20_I,909,covered,"two-lane vs GAMA + layer (blended, v7)",17666.6127,0.2431,0.0,42327.3068,False
+BPIC20_I,909,covered,two-lane vs GAMA + layer + exploration (v7),17702.8058,0.2436,0.0,42485.7044,False
+BPIC20_I,909,covered,"two-lane vs two-lane, equal-weight rules",6186.9453,0.0851,2244.5367,12855.5341,True
+BPIC20_I,909,dodge,two-lane vs rules alone × money,-5856.462,-0.2045,-11719.4125,0.0,False
+BPIC20_I,909,dodge,two-lane vs GAMA alone,3412.2981,0.1192,-822.9548,18798.451,False
+BPIC20_I,909,dodge,"two-lane vs GAMA + layer (blended, v7)",-1784.384,-0.0623,-8931.2348,4094.4716,False
+BPIC20_I,909,dodge,two-lane vs GAMA + layer + exploration (v7),-1784.384,-0.0623,-5381.667,5875.3711,False
+BPIC20_I,909,dodge,"two-lane vs two-lane, equal-weight rules",1616.5792,0.0564,-6168.8989,13382.6679,False
+BPIC20_I,909,new,two-lane vs rules alone × money,1207.5663,0.0832,0.0,3528.9039,False
+BPIC20_I,909,new,two-lane vs GAMA alone,-799.7606,-0.0551,-9086.4803,7947.925,False
+BPIC20_I,909,new,"two-lane vs GAMA + layer (blended, v7)",893.9095,0.0616,-7037.7424,9605.715,False
+BPIC20_I,909,new,two-lane vs GAMA + layer + exploration (v7),1039.9813,0.0717,-6712.4522,9337.7017,False
+BPIC20_I,909,new,"two-lane vs two-lane, equal-weight rules",2337.1787,0.1611,-3857.0638,11056.1287,False
+BPIC20_I,909,mixed,two-lane vs rules alone × money,-3754.6122,-0.073,-11263.8366,0.0,False
+BPIC20_I,909,mixed,two-lane vs GAMA alone,36729.1906,0.714,11839.5378,72707.7727,True
+BPIC20_I,909,mixed,"two-lane vs GAMA + layer (blended, v7)",-5538.9962,-0.1077,-11263.8366,1496.3673,False
+BPIC20_I,909,mixed,two-lane vs GAMA + layer + exploration (v7),-1308.3409,-0.0254,-8654.7284,5250.9795,False
+BPIC20_I,909,mixed,"two-lane vs two-lane, equal-weight rules",4268.5491,0.083,945.8759,13987.0407,True

@@ -1,0 +1,5 @@
+system,BPIC20_D,BPIC20_I,BPIC20_PR,BPIC20_R,mean
+FCA-PAD v2 (full),0.69,0.999,1.0,0.987,0.919
+FCA-PAD v2 anomaly lane,0.426,0.999,1.0,0.88,0.826
+GAMA + FCA-PAD financial layer,0.679,0.987,1.0,0.984,0.912
+GAMA alone,0.456,0.287,0.63,0.836,0.552

@@ -1,0 +1,24 @@
+column,dtype,n_unique,missing_pct,example
+id,object,69073,0.0,rv_travel permit 76455_6
+org:resource,object,2,0.0,STAFF MEMBER
+concept:name,object,34,0.0,Start trip
+time:timestamp,datetime64[ns],51270,0.0,2016-10-05 00:00:00
+org:role,object,8,0.0,EMPLOYEE
+case:Permit travel permit number,object,5596,0.0,travel permit number 76456
+case:DeclarationNumber,object,6190,0.0,declaration number 76458
+case:Amount,float64,6100,0.0,39.66456144659199
+case:RequestedAmount,float64,6100,0.0,39.66456144659199
+case:Permit TaskNumber,object,6,0.0,UNKNOWN
+case:Permit BudgetNumber,object,207,0.0,budget 922
+case:OriginalAmount,float64,6100,0.0,39.66456144659199
+case:Permit ProjectNumber,object,825,0.0,UNKNOWN
+case:concept:name,object,6449,0.0,declaration 76457
+case:Permit OrganizationalEntity,object,27,0.0,organizational unit 65458
+case:travel permit number,object,6033,0.0,travel permit number 76456
+case:Permit RequestedBudget,float64,5259,0.0,41.613444658859
+case:id,object,6449,0.0,declaration 76457
+case:Permit ID,object,6028,0.0,travel permit 76455
+case:Permit id,object,5608,0.0,travel permit 76455
+case:BudgetNumber,object,719,0.0,budget 144133
+case:Permit ActivityNumber,object,145,0.0,activity 46005
+case:AdjustedAmount,float64,6101,0.0,39.66456144659199

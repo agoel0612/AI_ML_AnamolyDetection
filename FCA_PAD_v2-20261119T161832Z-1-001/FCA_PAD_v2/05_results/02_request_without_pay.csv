@@ -1,0 +1,4 @@
+case:concept:name,start_time,end_time,length,amount,duration_h,variant,n_request_payment,n_payment_handled,n_rejections,n_submissions,n_approvals,n_rework_loops,has_missing_role,reaches_payment
+declaration 87660,2017-09-05 15:05:22+00:00,2017-12-21 13:41:35+00:00,4,7.462497526696364,2566.6,Declaration SUBMITTED by EMPLOYEE -> Declaration FINAL_APPROVED by SUPERVISOR -> Request Payment -> Declaration REJECTED by MISSING,1,0,1,1,1,0,True,False
+declaration 91936,2017-11-13 12:11:10+00:00,2017-12-13 09:12:44+00:00,4,53.998921217434415,717.03,Declaration SUBMITTED by EMPLOYEE -> Declaration FINAL_APPROVED by SUPERVISOR -> Request Payment -> Declaration REJECTED by MISSING,1,0,1,1,1,0,True,False
+declaration 93320,2017-10-06 15:55:39+00:00,2017-10-12 15:05:48+00:00,4,38.41822665677273,143.17,Declaration SUBMITTED by EMPLOYEE -> Declaration FINAL_APPROVED by SUPERVISOR -> Request Payment -> Declaration REJECTED by MISSING,1,0,1,1,1,0,True,False

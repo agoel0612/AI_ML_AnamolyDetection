@@ -1,0 +1,18 @@
+system,net_EUR_c10,net_EUR_c25,net_EUR_c50,net_EUR_c100
+LSTM alone,4711.0,3961.0,2711.0,211.0
+LSTM × amount,11218.0,10468.0,9218.0,6718.0
+LSTM + layer (rules v1),10852.0,10102.0,8852.0,6352.0
+LSTM + layer (rules v3),16595.0,15845.0,14595.0,12095.0
+LSTM + layer (rules v3) + exploration,16414.0,15664.0,14414.0,11914.0
+GAMA alone,1308.0,558.0,-692.0,-3192.0
+GAMA × amount,7291.0,6541.0,5291.0,2791.0
+GAMA + layer (rules v1),9022.0,8272.0,7022.0,4522.0
+GAMA + layer (rules v3),16730.0,15980.0,14730.0,12230.0
+GAMA + layer (rules v3) + exploration,16730.0,15980.0,14730.0,12230.0
+DAE alone,1116.0,366.0,-884.0,-3384.0
+DAE × amount,12183.0,11433.0,10183.0,7683.0
+DAE + layer (rules v1),13846.0,13096.0,11846.0,9346.0
+DAE + layer (rules v3),16735.0,15985.0,14735.0,12235.0
+DAE + layer (rules v3) + exploration,16735.0,15985.0,14735.0,12235.0
+amount alone,12844.0,12094.0,10844.0,8344.0
+rules v3 alone × money,16735.0,15985.0,14735.0,12235.0

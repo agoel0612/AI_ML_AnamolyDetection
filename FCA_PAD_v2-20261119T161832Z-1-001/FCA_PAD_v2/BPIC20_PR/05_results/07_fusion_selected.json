@@ -1,0 +1,7 @@
+{
+  "form": "add",
+  "param": 0.85,
+  "anomaly_lane": "A_NE_max_full",
+  "selected_on": "validation (bootstrap mean)",
+  "objective": "mean(PR-AUC, V@50)"
+}

@@ -1,0 +1,2 @@
+cases,events,activities,start,end,trace_len_min,trace_len_median,trace_len_max
+6449,72151,34,2016-10-05 00:00:00+00:00,2020-05-10 00:00:00+00:00,3,10.0,27

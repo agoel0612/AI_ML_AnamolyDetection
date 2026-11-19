@@ -1,0 +1,6 @@
+held_out_type,DAE + layer,DAE + layer + exploration,DAE alone,GAMA + layer,GAMA + layer + exploration,GAMA alone,LSTM + layer,LSTM + layer + exploration,LSTM alone,rules alone
+A1,0.074,0.037,0.0,0.037,0.037,0.0,0.296,1.0,1.0,0.037
+A5,0.0,0.0,0.0,0.125,0.083,1.0,0.208,0.917,1.0,0.0
+C1,0.0,0.0,0.042,0.0,0.0,0.0,0.0,0.0,0.0,0.042
+C3,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,0.0,0.0
+C4,0.0,0.0,0.0,0.042,0.958,1.0,0.167,0.5,0.75,0.0

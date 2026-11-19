@@ -1,0 +1,2 @@
+case:concept:name,start_time,end_time,length,amount,duration_h,variant,n_request_payment,n_payment_handled,n_rejections,n_submissions,n_approvals,n_rework_loops,has_missing_role,reaches_payment
+request for payment 152465,2017-12-12 11:44:34+00:00,2017-12-12 12:10:45+00:00,4,77.87497841812944,0.44,Request For Payment SUBMITTED by EMPLOYEE -> Request For Payment FINAL_APPROVED by SUPERVISOR -> Request Payment -> Request For Payment REJECTED by MISSING,1,0,1,1,1,0,True,False

@@ -1,0 +1,181 @@
+seed,held_out_type,detector,system,recall@50,EUR_loss_top50_of_type
+404,A1,LSTM,LSTM + layer,0.625,7269.7917
+404,A1,LSTM,LSTM + layer + exploration,1.0,8891.6844
+404,A1,LSTM,rules alone,0.0,0.0
+404,A1,LSTM,LSTM alone,1.0,8891.6844
+404,A1,GAMA,GAMA + layer,0.0,0.0
+404,A1,GAMA,GAMA + layer + exploration,0.0,0.0
+404,A1,GAMA,rules alone,0.0,0.0
+404,A1,GAMA,GAMA alone,0.0,0.0
+404,A1,DAE,DAE + layer,0.0,0.0
+404,A1,DAE,DAE + layer + exploration,0.0,0.0
+404,A1,DAE,rules alone,0.0,0.0
+404,A1,DAE,DAE alone,0.125,1493.8018
+404,A5,LSTM,LSTM + layer,0.625,0.0
+404,A5,LSTM,LSTM + layer + exploration,0.5,0.0
+404,A5,LSTM,rules alone,0.25,0.0
+404,A5,LSTM,LSTM alone,0.75,0.0
+404,A5,GAMA,GAMA + layer,0.25,0.0
+404,A5,GAMA,GAMA + layer + exploration,0.25,0.0
+404,A5,GAMA,rules alone,0.25,0.0
+404,A5,GAMA,GAMA alone,0.0,0.0
+404,A5,DAE,DAE + layer,0.25,0.0
+404,A5,DAE,DAE + layer + exploration,0.25,0.0
+404,A5,DAE,rules alone,0.25,0.0
+404,A5,DAE,DAE alone,0.125,0.0
+404,C1,LSTM,LSTM + layer,0.0,0.0
+404,C1,LSTM,LSTM + layer + exploration,0.0,0.0
+404,C1,LSTM,rules alone,0.0,0.0
+404,C1,LSTM,LSTM alone,0.0,0.0
+404,C1,GAMA,GAMA + layer,0.0,0.0
+404,C1,GAMA,GAMA + layer + exploration,0.0,0.0
+404,C1,GAMA,rules alone,0.0,0.0
+404,C1,GAMA,GAMA alone,0.0,0.0
+404,C1,DAE,DAE + layer,0.0,0.0
+404,C1,DAE,DAE + layer + exploration,0.0,0.0
+404,C1,DAE,rules alone,0.0,0.0
+404,C1,DAE,DAE alone,0.0,0.0
+404,C2,LSTM,LSTM + layer,0.0,0.0
+404,C2,LSTM,LSTM + layer + exploration,0.0,0.0
+404,C2,LSTM,rules alone,0.4286,26440.281
+404,C2,LSTM,LSTM alone,0.0,0.0
+404,C2,GAMA,GAMA + layer,0.2857,19202.1861
+404,C2,GAMA,GAMA + layer + exploration,0.0,0.0
+404,C2,GAMA,rules alone,0.4286,26440.281
+404,C2,GAMA,GAMA alone,0.0,0.0
+404,C2,DAE,DAE + layer,0.1429,14376.4229
+404,C2,DAE,DAE + layer + exploration,0.0,0.0
+404,C2,DAE,rules alone,0.4286,26440.281
+404,C2,DAE,DAE alone,0.1429,5056.2014
+404,C4,LSTM,LSTM + layer,0.4286,3423.1515
+404,C4,LSTM,LSTM + layer + exploration,0.1429,1974.5912
+404,C4,LSTM,rules alone,0.0,0.0
+404,C4,LSTM,LSTM alone,1.0,4334.3583
+404,C4,GAMA,GAMA + layer,0.0,0.0
+404,C4,GAMA,GAMA + layer + exploration,0.0,0.0
+404,C4,GAMA,rules alone,0.0,0.0
+404,C4,GAMA,GAMA alone,1.0,4334.3583
+404,C4,DAE,DAE + layer,0.0,0.0
+404,C4,DAE,DAE + layer + exploration,0.0,0.0
+404,C4,DAE,rules alone,0.0,0.0
+404,C4,DAE,DAE alone,0.0,0.0
+505,A1,LSTM,LSTM + layer,0.625,5397.2182
+505,A1,LSTM,LSTM + layer + exploration,0.75,5458.347
+505,A1,LSTM,rules alone,0.0,0.0
+505,A1,LSTM,LSTM alone,1.0,5933.3531
+505,A1,GAMA,GAMA + layer,0.0,0.0
+505,A1,GAMA,GAMA + layer + exploration,0.0,0.0
+505,A1,GAMA,rules alone,0.0,0.0
+505,A1,GAMA,GAMA alone,0.125,533.855
+505,A1,DAE,DAE + layer,0.0,0.0
+505,A1,DAE,DAE + layer + exploration,0.0,0.0
+505,A1,DAE,rules alone,0.0,0.0
+505,A1,DAE,DAE alone,0.0,0.0
+505,A5,LSTM,LSTM + layer,0.375,0.0
+505,A5,LSTM,LSTM + layer + exploration,0.375,0.0
+505,A5,LSTM,rules alone,0.25,0.0
+505,A5,LSTM,LSTM alone,0.5,0.0
+505,A5,GAMA,GAMA + layer,0.25,0.0
+505,A5,GAMA,GAMA + layer + exploration,0.25,0.0
+505,A5,GAMA,rules alone,0.25,0.0
+505,A5,GAMA,GAMA alone,0.0,0.0
+505,A5,DAE,DAE + layer,0.25,0.0
+505,A5,DAE,DAE + layer + exploration,0.25,0.0
+505,A5,DAE,rules alone,0.25,0.0
+505,A5,DAE,DAE alone,0.125,0.0
+505,C1,LSTM,LSTM + layer,0.0,0.0
+505,C1,LSTM,LSTM + layer + exploration,0.0,0.0
+505,C1,LSTM,rules alone,0.0,0.0
+505,C1,LSTM,LSTM alone,0.125,250.8261
+505,C1,GAMA,GAMA + layer,0.0,0.0
+505,C1,GAMA,GAMA + layer + exploration,0.125,250.8261
+505,C1,GAMA,rules alone,0.0,0.0
+505,C1,GAMA,GAMA alone,0.125,250.8261
+505,C1,DAE,DAE + layer,0.0,0.0
+505,C1,DAE,DAE + layer + exploration,0.0,0.0
+505,C1,DAE,rules alone,0.0,0.0
+505,C1,DAE,DAE alone,0.0,0.0
+505,C2,LSTM,LSTM + layer,0.2857,10298.2889
+505,C2,LSTM,LSTM + layer + exploration,0.0,0.0
+505,C2,LSTM,rules alone,0.1429,3980.9926
+505,C2,LSTM,LSTM alone,0.0,0.0
+505,C2,GAMA,GAMA + layer,0.2857,10298.2889
+505,C2,GAMA,GAMA + layer + exploration,0.0,0.0
+505,C2,GAMA,rules alone,0.1429,3980.9926
+505,C2,GAMA,GAMA alone,0.0,0.0
+505,C2,DAE,DAE + layer,0.1429,3980.9926
+505,C2,DAE,DAE + layer + exploration,0.0,0.0
+505,C2,DAE,rules alone,0.1429,3980.9926
+505,C2,DAE,DAE alone,0.0,0.0
+505,C4,LSTM,LSTM + layer,0.0,0.0
+505,C4,LSTM,LSTM + layer + exploration,0.0,0.0
+505,C4,LSTM,rules alone,0.0,0.0
+505,C4,LSTM,LSTM alone,0.25,118.3465
+505,C4,GAMA,GAMA + layer,0.0,0.0
+505,C4,GAMA,GAMA + layer + exploration,0.0,0.0
+505,C4,GAMA,rules alone,0.0,0.0
+505,C4,GAMA,GAMA alone,0.25,272.8013
+505,C4,DAE,DAE + layer,0.0,0.0
+505,C4,DAE,DAE + layer + exploration,0.125,478.1515
+505,C4,DAE,rules alone,0.0,0.0
+505,C4,DAE,DAE alone,0.25,684.4514
+606,A1,LSTM,LSTM + layer,0.625,7419.9788
+606,A1,LSTM,LSTM + layer + exploration,0.75,6810.4543
+606,A1,LSTM,rules alone,0.125,3059.4576
+606,A1,LSTM,LSTM alone,1.0,7689.7635
+606,A1,GAMA,GAMA + layer,0.125,3059.4576
+606,A1,GAMA,GAMA + layer + exploration,0.0,0.0
+606,A1,GAMA,rules alone,0.125,3059.4576
+606,A1,GAMA,GAMA alone,0.0,0.0
+606,A1,DAE,DAE + layer,0.125,3059.4576
+606,A1,DAE,DAE + layer + exploration,0.0,0.0
+606,A1,DAE,rules alone,0.125,3059.4576
+606,A1,DAE,DAE alone,0.125,817.3811
+606,A5,LSTM,LSTM + layer,0.375,0.0
+606,A5,LSTM,LSTM + layer + exploration,0.5,0.0
+606,A5,LSTM,rules alone,0.375,0.0
+606,A5,LSTM,LSTM alone,0.75,0.0
+606,A5,GAMA,GAMA + layer,0.375,0.0
+606,A5,GAMA,GAMA + layer + exploration,0.25,0.0
+606,A5,GAMA,rules alone,0.375,0.0
+606,A5,GAMA,GAMA alone,0.0,0.0
+606,A5,DAE,DAE + layer,0.375,0.0
+606,A5,DAE,DAE + layer + exploration,0.25,0.0
+606,A5,DAE,rules alone,0.375,0.0
+606,A5,DAE,DAE alone,0.0,0.0
+606,C1,LSTM,LSTM + layer,0.0,0.0
+606,C1,LSTM,LSTM + layer + exploration,0.0,0.0
+606,C1,LSTM,rules alone,0.125,1778.4024
+606,C1,LSTM,LSTM alone,0.0,0.0
+606,C1,GAMA,GAMA + layer,0.125,1778.4024
+606,C1,GAMA,GAMA + layer + exploration,0.0,0.0
+606,C1,GAMA,rules alone,0.125,1778.4024
+606,C1,GAMA,GAMA alone,0.0,0.0
+606,C1,DAE,DAE + layer,0.125,1357.5974
+606,C1,DAE,DAE + layer + exploration,0.0,0.0
+606,C1,DAE,rules alone,0.125,1778.4024
+606,C1,DAE,DAE alone,0.0,0.0
+606,C2,LSTM,LSTM + layer,0.25,20980.3858
+606,C2,LSTM,LSTM + layer + exploration,0.125,11952.7853
+606,C2,LSTM,rules alone,0.75,31409.9947
+606,C2,LSTM,LSTM alone,0.0,0.0
+606,C2,GAMA,GAMA + layer,0.75,31409.9947
+606,C2,GAMA,GAMA + layer + exploration,0.375,24282.6485
+606,C2,GAMA,rules alone,0.75,31409.9947
+606,C2,GAMA,GAMA alone,0.0,0.0
+606,C2,DAE,DAE + layer,0.375,24282.6485
+606,C2,DAE,DAE + layer + exploration,0.375,24282.6485
+606,C2,DAE,rules alone,0.75,31409.9947
+606,C2,DAE,DAE alone,0.0,0.0
+606,C4,LSTM,LSTM + layer,0.375,6856.2671
+606,C4,LSTM,LSTM + layer + exploration,0.25,5402.1995
+606,C4,LSTM,rules alone,0.125,4000.1049
+606,C4,LSTM,LSTM alone,0.75,7530.3218
+606,C4,GAMA,GAMA + layer,0.125,4000.1049
+606,C4,GAMA,GAMA + layer + exploration,0.125,4000.1049
+606,C4,GAMA,rules alone,0.125,4000.1049
+606,C4,GAMA,GAMA alone,0.125,4000.1049
+606,C4,DAE,DAE + layer,0.125,4000.1049
+606,C4,DAE,DAE + layer + exploration,0.125,4000.1049
+606,C4,DAE,rules alone,0.125,4000.1049
+606,C4,DAE,DAE alone,0.125,4000.1049

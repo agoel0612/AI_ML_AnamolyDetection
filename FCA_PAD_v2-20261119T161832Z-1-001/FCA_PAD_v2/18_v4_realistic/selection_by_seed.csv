@@ -1,0 +1,16 @@
+seed,system,registry,transform,lambda,form
+404,amount_only,v1,log,0.0,
+404,v1,v1,log,4.0,
+404,v3,v3,log,8.0,
+404,ev_v1,v1,linear,8.0,v4
+404,ev_v3,v3,linear,8.0,v4
+505,amount_only,v1,log,0.0,
+505,v1,v1,log,4.0,
+505,v3,v3,linear,8.0,
+505,ev_v1,v1,linear,2.0,v4
+505,ev_v3,v3,linear,8.0,v4
+606,amount_only,v1,linear,0.0,
+606,v1,v1,log,4.0,
+606,v3,v3,log,8.0,
+606,ev_v1,v1,log,0.0,v4
+606,ev_v3,v3,linear,8.0,v4

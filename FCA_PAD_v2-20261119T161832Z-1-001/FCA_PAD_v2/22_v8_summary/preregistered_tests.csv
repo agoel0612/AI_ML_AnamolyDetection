@@ -1,0 +1,13 @@
+hypothesis,test,pairs,mean_delta,two_lane_better_in,p_one_sided,supported
+H28,mixed: two-lane > blended GAMA + layer (money),6,0.018,2/6,0.59375,False
+H29a,"mixed: two-lane non-inferior to rules alone (margin 0.05, money)",6,-0.006,2/6,0.078125,False
+H29b,mixed: two-lane catches more rule-less costly cases than rules alone,6,0.008,2/6,0.3125,False
+H30a,dodge: two-lane > rules alone (money),6,-0.034,0/6,1.0,False
+H30b,new: two-lane > rules alone (money),6,0.038,5/6,0.078125,False
+H31,"covered: two-lane non-inferior to rules alone (margin 0.05, money)",6,-0.03,0/6,0.21875,False
+H32a,covered: two-lane > GAMA alone (money),6,0.638,6/6,0.015625,True
+H32b,mixed: two-lane > GAMA alone (money),6,0.302,5/6,0.046875,True
+H33a,covered: learned > equal-weight rules in the two-lane queue,6,0.331,6/6,0.015625,True
+H33b,mixed: learned > equal-weight rules in the two-lane queue,6,0.163,6/6,0.015625,True
+H34,covered: two-lane loses less than rules alone when 10 rules are removed,6,0.016,3/6,0.3125,False
+H34,mixed: two-lane loses less than rules alone when 10 rules are removed,6,0.017,3/6,0.21875,False

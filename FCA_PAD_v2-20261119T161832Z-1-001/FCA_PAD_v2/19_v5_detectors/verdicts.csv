@@ -1,0 +1,4 @@
+detector,H14 AP_any → Loss Recall (alone),H15 € lost money in top K: alone → + layer,H16 vs rules alone / × amount,H18 net benefit better at every cost,H19 hybrid: € lost money / held-out recall
+LSTM,0.91 → 0.52,"€2,220 → €2,692","€3,564 / €1,195",True,"€2,475 / 0.25 vs layer 0.15"
+GAMA,0.88 → 0.39,"€1,700 → €3,386","€3,564 / €1,434",True,"€3,194 / 0.18 vs layer 0.04"
+DAE,0.78 → 0.00,"€0 → €3,468","€3,564 / €1,066",True,"€3,226 / 0.02 vs layer 0.02"

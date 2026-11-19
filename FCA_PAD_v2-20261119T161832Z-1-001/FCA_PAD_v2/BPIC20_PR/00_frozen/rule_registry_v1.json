@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "log": "BPIC20_PR",
+  "frozen": "2026-10-06T13:46:51",
+  "thresholds": {
+    "batched": false,
+    "batch_weekdays": [],
+    "batch_hour": 12,
+    "multi_batch_hrs": 142.0731111111111,
+    "repeat_window_d": 7,
+    "rare_amount_max": 3,
+    "heavy_rework_loops": 2
+  },
+  "rules": {
+    "F1": {
+      "name": "Duplicate payment in case",
+      "consequence": "loss",
+      "severity": 3,
+      "survey_type": "rework",
+      "source": "audit practice"
+    },
+    "F2": {
+      "name": "Repeated payment request",
+      "consequence": "exposure",
+      "severity": 3,
+      "survey_type": "insert",
+      "source": "audit practice"
+    },
+    "F3": {
+      "name": "Rare amount in cross-case payment cluster",
+      "consequence": "exposure",
+      "severity": 2,
+      "survey_type": "attribute",
+      "source": "audit + data"
+    },
+    "F6": {
+      "name": "Payment without request (bypass)",
+      "consequence": "exposure",
+      "severity": 3,
+      "survey_type": "skip",
+      "source": "audit practice"
+    },
+    "F7": {
+      "name": "Off-batch payment",
+      "consequence": "exposure",
+      "severity": 2,
+      "survey_type": "attribute",
+      "source": "data-derived"
+    },
+    "F8": {
+      "name": "Multi-batch payment delay",
+      "consequence": "exposure",
+      "severity": 1,
+      "survey_type": "late",
+      "source": "data-derived"
+    },
+    "F9": {
+      "name": "Heavy rework reaching payment",
+      "consequence": "exposure",
+      "severity": 1,
+      "survey_type": "rework",
+      "source": "data-derived"
+    },
+    "F10": {
+      "name": "New request after an existing payment",
+      "consequence": "exposure",
+      "severity": 3,
+      "survey_type": "insert",
+      "source": "audit practice"
+    }
+  },
+  "omitted": {
+    "F4": "within-case amount repeat impossible (one amount per case); folded into F3",
+    "F5": "amount inflation: no adjusted-amount field; Track A only (A3 not injected)"
+  }
+}

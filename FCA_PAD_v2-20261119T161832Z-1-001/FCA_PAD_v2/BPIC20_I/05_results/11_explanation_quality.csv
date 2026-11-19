@@ -1,0 +1,5 @@
+type,rule_match,worst_event_localised
+A1,1.0,1.0
+A2,1.0,1.0
+A4,1.0,1.0
+A5,,0.188

@@ -1,0 +1,7 @@
+comparison,pairs,improved,median_delta_EUR,wilcoxon_p_one_sided
++ layer (rules v3) vs + layer (rules v1),9,9,18799.36797425586,0.001953125
++ layer (rules v3) vs alone,9,9,59073.37720647088,0.001953125
++ layer (rules v3) vs rules v3 alone × money,9,2,0.0,0.59375
++ layer (rules v3) vs × amount,9,9,32099.23498613319,0.001953125
++ layer + exploration vs alone,9,9,58693.77916803678,0.001953125
++ layer + exploration vs rules v3 alone × money,9,0,-882.9380368586862,1.0

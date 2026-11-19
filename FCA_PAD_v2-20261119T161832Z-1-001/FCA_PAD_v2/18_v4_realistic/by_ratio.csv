@@ -1,0 +1,33 @@
+system,ratio,LossRecall@50,EUR_loss_top50,decoys_in_top50
+P(anomaly),0,0.242,1067.75,0.0
+P(anomaly),1,0.147,680.576,11.0
+P(anomaly),4,0.024,93.254,45.667
+P(anomaly),10,0.0,0.0,50.0
+amount-only expected loss,0,0.44,1933.839,0.0
+amount-only expected loss,1,0.4,1751.312,11.0
+amount-only expected loss,4,0.278,1237.128,25.333
+amount-only expected loss,10,0.213,929.27,38.667
+anomaly lane (v2 percentile),0,0.609,2605.602,0.0
+anomaly lane (v2 percentile),1,0.311,1387.456,23.0
+anomaly lane (v2 percentile),4,0.124,551.743,40.333
+anomaly lane (v2 percentile),10,0.053,234.764,44.0
+v2 FCA-PAD fusion,0,0.466,1959.036,0.0
+v2 FCA-PAD fusion,1,0.306,1280.171,19.0
+v2 FCA-PAD fusion,4,0.28,1166.682,27.667
+v2 FCA-PAD fusion,10,0.28,1166.682,28.667
+"v3 layer, registry v1 (frozen)",0,0.59,2538.782,0.0
+"v3 layer, registry v1 (frozen)",1,0.537,2296.712,8.667
+"v3 layer, registry v1 (frozen)",4,0.39,1697.079,20.333
+"v3 layer, registry v1 (frozen)",10,0.355,1540.326,25.0
+"v3 layer, registry v3 (audit tests)",0,0.633,2732.498,0.0
+"v3 layer, registry v3 (audit tests)",1,0.62,2678.182,3.667
+"v3 layer, registry v3 (audit tests)",4,0.592,2563.191,9.667
+"v3 layer, registry v3 (audit tests)",10,0.49,2132.14,18.0
+"v4 layer, registry v1 (frozen)",0,0.503,2167.018,0.0
+"v4 layer, registry v1 (frozen)",1,0.492,2125.932,4.667
+"v4 layer, registry v1 (frozen)",4,0.394,1718.537,18.333
+"v4 layer, registry v1 (frozen)",10,0.365,1577.651,27.0
+"v4 layer, registry v3 (audit tests)",0,0.841,3568.01,0.0
+"v4 layer, registry v3 (audit tests)",1,0.841,3568.01,0.0
+"v4 layer, registry v3 (audit tests)",4,0.83,3511.37,1.0
+"v4 layer, registry v3 (audit tests)",10,0.829,3506.919,2.333

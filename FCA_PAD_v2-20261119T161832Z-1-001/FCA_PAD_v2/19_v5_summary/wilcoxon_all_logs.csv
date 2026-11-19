@@ -1,0 +1,7 @@
+comparison,pairs (detector×log×seed),improved,significant_pairs,wilcoxon_p_one_sided
++ layer (rules v3) vs + layer (rules v1),36,36,30,8.397810857391899e-08
++ layer (rules v3) vs alone,36,36,28,8.397810857391899e-08
++ layer (rules v3) vs rules v3 alone × money,36,3,3,0.9989528269626226
++ layer (rules v3) vs × amount,36,36,34,1.4551915228366852e-11
++ layer + exploration vs alone,36,36,28,8.397810857391899e-08
++ layer + exploration vs rules v3 alone × money,36,0,4,0.9999991344368026

@@ -1,0 +1,73 @@
+seed,ratio,comparison,delta_EUR_loss_topK,CI95_low,CI95_high,significant
+404,0,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",971.23,-69.61,2680.06,False
+404,0,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",-733.51,-1127.47,-5.46,True
+404,0,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",238.8,-518.26,1081.75,False
+404,0,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",-427.38,-944.95,0.0,False
+404,0,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1304.24,407.45,1871.26,True
+404,0,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1398.62,405.6,2971.25,True
+404,1,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",1500.33,293.53,2976.14,True
+404,1,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",112.71,-508.43,470.74,False
+404,1,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",399.57,-484.53,1300.63,False
+404,1,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",-352.56,-944.95,0.0,False
+404,1,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1304.24,418.9,2110.46,True
+404,1,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1852.89,538.66,3244.2,True
+404,4,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",1500.33,431.11,2967.55,True
+404,4,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",143.3,-0.0,429.89,False
+404,4,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",1255.15,-95.66,2810.86,False
+404,4,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",0.0,-296.19,286.59,False
+404,4,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1304.24,451.55,2152.58,True
+404,4,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1500.33,435.51,2988.15,True
+404,10,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",1751.0,548.94,3119.62,True
+404,10,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",143.3,-0.0,429.89,False
+404,10,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",1311.51,-39.67,2717.25,False
+404,10,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",143.3,-0.0,429.89,False
+404,10,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1304.24,501.36,2161.0,True
+404,10,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1607.71,456.73,3045.3,True
+505,0,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",1316.95,405.32,2987.68,True
+505,0,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",792.73,-624.38,1827.79,False
+505,0,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",-119.62,-758.59,679.83,False
+505,0,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",-501.76,-1060.71,323.83,False
+505,0,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1296.18,346.48,2086.18,True
+505,0,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1818.7,613.87,3459.42,True
+505,1,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",1624.46,516.42,4581.31,True
+505,1,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",1685.17,-95.23,4103.28,False
+505,1,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",267.19,-588.86,1377.07,False
+505,1,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",0.0,-642.59,1267.97,False
+505,1,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1296.18,367.01,2106.15,True
+505,1,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1624.46,564.83,4211.75,True
+505,4,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",2816.85,964.07,5713.61,True
+505,4,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",1548.79,0.0,4386.13,False
+505,4,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",632.41,-418.26,2097.44,False
+505,4,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",100.9,-643.52,1267.97,False
+505,4,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1468.51,438.92,2714.17,True
+505,4,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",2715.95,785.46,5457.2,True
+505,10,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",2401.6,607.21,5295.55,True
+505,10,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",1126.14,-0.0,3378.41,False
+505,10,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",953.7,-203.55,2194.71,False
+505,10,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",0.0,-7.08,3371.32,False
+505,10,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1877.81,663.28,3340.26,True
+505,10,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",2401.6,577.47,4628.98,True
+606,0,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",1009.62,-0.7,2340.31,False
+606,0,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",564.73,-570.42,1315.91,False
+606,0,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",580.36,-173.77,890.33,False
+606,0,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",-186.15,-525.03,0.0,False
+606,0,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1602.55,422.48,2956.06,True
+606,0,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1195.77,197.04,2538.43,True
+606,1,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",1211.27,72.03,2212.37,True
+606,1,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",739.4,-534.01,1757.44,False
+606,1,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",457.1,-1294.52,764.58,False
+606,1,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",-159.78,-1565.95,0.0,False
+606,1,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",1725.81,632.91,3703.68,True
+606,1,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",1371.05,231.61,2625.64,True
+606,4,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",558.67,257.08,912.96,True
+606,4,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",-36.53,-109.58,0.0,False
+606,4,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",-443.33,-1969.3,666.93,False
+606,4,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",-36.53,-481.67,0.0,False
+606,4,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",2605.75,962.58,4423.31,True
+606,4,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",595.2,303.05,1025.0,True
+606,10,"v4 layer, registry v1 (frozen)  vs  P(anomaly)",580.36,284.09,903.82,True
+606,10,"v4 layer, registry v1 (frozen)  vs  v2 FCA-PAD fusion",-36.53,-109.58,0.0,False
+606,10,"v4 layer, registry v1 (frozen)  vs  amount-only expected loss",-320.07,-1877.54,681.71,False
+606,10,"v4 layer, registry v1 (frozen)  vs  v3 layer, registry v1 (frozen)",-31.32,-109.58,15.62,False
+606,10,"v4 layer, registry v3 (audit tests)  vs  v4 layer, registry v1 (frozen)",2605.75,1015.59,4425.64,True
+606,10,"v3 layer, registry v1 (frozen)  vs  P(anomaly)",611.68,295.04,956.39,True

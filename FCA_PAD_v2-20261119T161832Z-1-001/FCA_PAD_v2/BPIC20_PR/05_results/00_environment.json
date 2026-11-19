@@ -1,0 +1,9 @@
+{
+  "python": "3.13.16",
+  "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "pandas": "2.2.3",
+  "numpy": "2.4.6",
+  "run_started": "2026-11-03T14:59:52",
+  "root": "/content/drive/MyDrive/FCA_PAD_v2/BPIC20_PR",
+  "log": "BPIC20_PR"
+}

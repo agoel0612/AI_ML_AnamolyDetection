@@ -1,0 +1,15 @@
+column,dtype,n_unique,missing_pct,example
+id,object,36796,0.0,st_step 148220_0
+org:resource,object,2,0.0,STAFF MEMBER
+concept:name,object,19,0.0,Request For Payment SUBMITTED by EMPLOYEE
+time:timestamp,datetime64[ns],30141,0.0,2017-01-09 09:17:18
+org:role,object,8,0.0,EMPLOYEE
+case:Rfp_id,object,6886,0.0,request for payment 148214
+case:Project,object,79,0.0,project 148216
+case:Task,object,597,0.0,UNKNOWN
+case:concept:name,object,6886,0.0,request for payment 148214
+case:OrganizationalEntity,object,36,0.0,organizational unit 65463
+case:Cost Type,int64,1,0.0,0
+case:RequestedAmount,float64,6449,0.0,34.33634285099345
+case:Activity,object,6,0.0,UNKNOWN
+case:RfpNumber,object,6322,0.0,request for payment number 148215

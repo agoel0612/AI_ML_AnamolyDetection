@@ -1,0 +1,7 @@
+scenario,family,0.0,2.0,4.0,6.0,8.0,10.0
+covered,detector + layer,0.806,0.735,0.679,0.604,0.55,0.513
+covered,detector + layer + exploration,0.763,0.707,0.653,0.593,0.545,0.5
+covered,rules alone × money,0.854,0.813,0.767,0.669,0.613,0.578
+mixed,detector + layer,0.634,0.594,0.559,0.511,0.486,0.479
+mixed,detector + layer + exploration,0.609,0.567,0.54,0.496,0.47,0.465
+mixed,rules alone × money,0.631,0.591,0.579,0.499,0.474,0.492

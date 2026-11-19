@@ -1,0 +1,44 @@
+{
+  "H1_consequence_discrimination": {
+    "median_dR": 0.749159491594916,
+    "frac_positive": 1.0,
+    "wilcoxon_p": 2.0082550439324736e-24,
+    "rank_biserial": 1.0
+  },
+  "H2_financial_prioritisation": {
+    "V@50_anomaly_only": 0.62319662681598,
+    "V@50_FCA_PAD_v2": 0.6242332912875791,
+    "PR_AUC_anomaly_only": 0.971830985915493,
+    "PR_AUC_FCA_PAD_v2": 0.9668529959276391
+  },
+  "H3_early_warning": {
+    "A4_A5_alerted_before_loss": 1.0,
+    "median_lead_hours": 80.8075,
+    "false_alert_rate_cases": 0.018867924528301886
+  },
+  "H4_financial_layer_contribution": {
+    "PR_AUC_without_F": 0.971830985915493,
+    "PR_AUC_with_F": 0.9668529959276391,
+    "LossRecall@50_without_F": 0.880069822652766,
+    "LossRecall@50_with_F": 0.9865922855551938
+  },
+  "H5_fusion_form": {
+    "selected_on_val": {
+      "form": "add",
+      "param": 0.95,
+      "anomaly_lane": "A_NE_max_act_role",
+      "selected_on": "validation (bootstrap mean)",
+      "objective": "mean(PR-AUC, V@50)"
+    },
+    "best_test_PR_AUC_additive": 0.971830985915493,
+    "best_test_PR_AUC_multiplicative": 0.971830985915493
+  },
+  "v1_vs_v2": {
+    "PR_AUC_v1": 0.7002926016599033,
+    "PR_AUC_v2": 0.9668529959276391,
+    "F1_oracle_v1": 0.7938931297709925,
+    "F1_oracle_v2": 0.971830985915493,
+    "V@50_v1": 0.5994558220326105,
+    "V@50_v2": 0.6242332912875791
+  }
+}

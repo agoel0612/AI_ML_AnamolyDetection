@@ -1,0 +1,23 @@
+column,dtype,n_unique,missing_pct,example
+id,object,16205,0.0,st_step 73555_0
+org:resource,object,2,0.0,STAFF MEMBER
+concept:name,object,29,0.0,Permit SUBMITTED by EMPLOYEE
+time:timestamp,datetime64[ns],14070,0.0,2017-01-09 14:48:43
+org:role,object,8,0.0,EMPLOYEE
+case:Rfp_id,object,2099,0.0,request for payment 73550
+case:Permit travel permit number,object,1318,0.0,UNKNOWN
+case:Task,object,435,0.0,task 71977
+case:OrganizationalEntity,object,26,0.0,organizational unit 65463
+case:RequestedAmount,float64,2049,0.0,854.5798378437331
+case:Activity,object,5,0.0,activity 505
+case:Permit TaskNumber,object,5,0.0,UNKNOWN
+case:Permit BudgetNumber,object,139,0.0,budget 6198
+case:Permit ProjectNumber,object,403,0.0,UNKNOWN
+case:Project,object,29,0.0,project 503
+case:concept:name,object,2099,0.0,request for payment 73550
+case:Permit OrganizationalEntity,object,22,0.0,organizational unit 65455
+case:Permit RequestedBudget,float64,1296,0.0,1979.272103997747
+case:Cost Type,int64,1,0.0,0
+case:Permit id,object,1327,0.0,travel permit 73549
+case:Permit ActivityNumber,object,58,0.0,UNKNOWN
+case:RfpNumber,object,2000,0.0,request for payment number 73551

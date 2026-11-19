@@ -1,0 +1,11 @@
+column,dtype,n_unique,missing_pct,example
+id,object,56437,0.0,st_step 86794_0
+org:resource,object,2,0.0,STAFF MEMBER
+concept:name,object,17,0.0,Declaration SUBMITTED by EMPLOYEE
+time:timestamp,datetime64[ns],45403,0.0,2017-01-09 09:49:50
+org:role,object,7,0.0,EMPLOYEE
+case:id,object,10500,0.0,declaration 86791
+case:concept:name,object,10500,0.0,declaration 86791
+case:BudgetNumber,object,1,0.0,budget 86566
+case:DeclarationNumber,object,10049,0.0,declaration number 86792
+case:Amount,float64,8326,0.0,26.85120450862128

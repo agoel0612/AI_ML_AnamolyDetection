@@ -1,0 +1,19 @@
+system,BPIC20_D,BPIC20_I,BPIC20_PR,BPIC20_R
+rules alone × money,0.013,0.317,0.276,0.078
+rules alone (equal weights) × money,0.046,0.187,0.276,0.17
+amount alone,0.172,0.356,0.554,0.455
+LSTM alone,0.242,0.3,0.135,0.38
+LSTM + layer,0.244,0.486,0.311,0.151
+LSTM + layer + exploration,0.275,0.452,0.351,0.398
+LSTM + layer (equal weights),0.312,0.419,0.311,0.346
+LSTM + layer + exploration (all types labelled),0.296,0.501,0.314,0.4
+GAMA alone,0.384,0.351,0.389,0.506
+GAMA + layer,0.095,0.413,0.276,0.103
+GAMA + layer + exploration,0.074,0.373,0.276,0.067
+GAMA + layer (equal weights),0.092,0.336,0.276,0.134
+GAMA + layer + exploration (all types labelled),0.19,0.423,0.214,0.192
+DAE alone,0.053,0.017,0.191,0.077
+DAE + layer,0.124,0.199,0.262,0.047
+DAE + layer + exploration,0.126,0.18,0.246,0.031
+DAE + layer (equal weights),0.252,0.152,0.246,0.267
+DAE + layer + exploration (all types labelled),0.252,0.207,0.579,0.203

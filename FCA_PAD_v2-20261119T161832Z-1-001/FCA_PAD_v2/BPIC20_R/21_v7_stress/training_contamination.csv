@@ -1,0 +1,4 @@
+seed,train_A1,train_A5,train_C1,train_C3,train_C4,train_A5x,train_C1x,train_C3x,train_C4x,train_N1,train_N2,train_N3,train_D1,train_D2,train_D3,train_D4
+404,18,19,12,14,16,15,18,0,17,28,28,32,291,320,304,322
+505,22,13,15,14,17,22,23,0,19,32,25,26,307,295,319,306
+606,16,16,11,14,20,24,21,0,19,28,27,32,298,307,319,302

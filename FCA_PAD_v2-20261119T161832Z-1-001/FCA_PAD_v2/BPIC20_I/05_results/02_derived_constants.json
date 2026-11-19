@@ -1,0 +1,8 @@
+{
+  "BATCH_WEEKDAYS": [],
+  "BATCH_HOUR": 12,
+  "BATCHED": false,
+  "batch_share": 0.0,
+  "MULTI_BATCH_HRS": 140.00683333333333,
+  "median_req_to_pay_h": 77.2275
+}

@@ -1,0 +1,2 @@
+cases,events,activities,start,end,trace_len_min,trace_len_median,trace_len_max
+10500,56437,17,2017-01-09 09:49:50+00:00,2019-06-17 17:30:58+00:00,1,5.0,24

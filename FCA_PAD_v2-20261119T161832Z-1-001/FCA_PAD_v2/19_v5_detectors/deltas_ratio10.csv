@@ -1,0 +1,55 @@
+seed,detector,comparison,delta_EUR_loss_topK,CI95_low,CI95_high,significant
+404,LSTM,+ layer (rules v3) vs alone,279.84,-72.02,571.78,False
+404,LSTM,+ layer (rules v3) vs × amount,1673.97,834.69,2191.33,True
+404,LSTM,+ layer (rules v3) vs rules v3 alone × money,-472.04,-1249.24,10.74,False
+404,LSTM,+ layer (rules v3) vs + layer (rules v1),296.42,39.9,694.01,True
+404,LSTM,+ layer + exploration vs alone,18.43,-76.48,457.68,False
+404,LSTM,+ layer + exploration vs rules v3 alone × money,-733.46,-1388.16,-5.81,True
+404,GAMA,+ layer (rules v3) vs alone,1621.39,443.81,3046.71,True
+404,GAMA,+ layer (rules v3) vs × amount,1658.02,944.41,2481.59,True
+404,GAMA,+ layer (rules v3) vs rules v3 alone × money,-123.42,-606.07,272.18,False
+404,GAMA,+ layer (rules v3) vs + layer (rules v1),1027.93,408.36,1684.44,True
+404,GAMA,+ layer + exploration vs alone,1477.91,379.81,2965.15,True
+404,GAMA,+ layer + exploration vs rules v3 alone × money,-266.9,-673.17,243.17,False
+404,DAE,+ layer (rules v3) vs alone,3055.25,1579.38,4515.99,True
+404,DAE,+ layer (rules v3) vs × amount,2146.01,1186.67,2950.96,True
+404,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-388.72,66.84,False
+404,DAE,+ layer (rules v3) vs + layer (rules v1),1151.35,450.7,1930.06,True
+404,DAE,+ layer + exploration vs alone,2750.34,1447.67,4423.82,True
+404,DAE,+ layer + exploration vs rules v3 alone × money,-304.91,-694.16,0.0,False
+505,LSTM,+ layer (rules v3) vs alone,724.96,-87.25,1727.83,False
+505,LSTM,+ layer (rules v3) vs × amount,1602.94,750.65,2163.45,True
+505,LSTM,+ layer (rules v3) vs rules v3 alone × money,-569.28,-1398.27,-12.16,True
+505,LSTM,+ layer (rules v3) vs + layer (rules v1),410.47,11.19,1459.94,True
+505,LSTM,+ layer + exploration vs alone,388.46,-104.32,1419.61,False
+505,LSTM,+ layer + exploration vs rules v3 alone × money,-905.78,-1767.24,-38.63,True
+505,GAMA,+ layer (rules v3) vs alone,1549.12,617.97,2449.05,True
+505,GAMA,+ layer (rules v3) vs × amount,1670.06,821.66,2688.48,True
+505,GAMA,+ layer (rules v3) vs rules v3 alone × money,-150.66,-825.43,38.44,False
+505,GAMA,+ layer (rules v3) vs + layer (rules v1),1451.76,383.08,2792.27,True
+505,GAMA,+ layer + exploration vs alone,1139.46,472.66,2212.16,True
+505,GAMA,+ layer + exploration vs rules v3 alone × money,-560.33,-1108.35,16.3,False
+505,DAE,+ layer (rules v3) vs alone,4142.1,1991.32,7419.52,True
+505,DAE,+ layer (rules v3) vs × amount,2271.55,1155.93,3591.8,True
+505,DAE,+ layer (rules v3) vs rules v3 alone × money,-286.74,-451.99,24.32,False
+505,DAE,+ layer (rules v3) vs + layer (rules v1),1317.85,443.91,2684.64,True
+505,DAE,+ layer + exploration vs alone,4090.89,1817.45,7359.0,True
+505,DAE,+ layer + exploration vs rules v3 alone × money,-337.94,-640.59,0.0,False
+606,LSTM,+ layer (rules v3) vs alone,413.55,-48.6,1256.27,False
+606,LSTM,+ layer (rules v3) vs × amount,1215.81,749.69,1656.14,True
+606,LSTM,+ layer (rules v3) vs rules v3 alone × money,-1572.03,-3329.09,-384.04,True
+606,LSTM,+ layer (rules v3) vs + layer (rules v1),537.41,-0.0,1468.0,False
+606,LSTM,+ layer + exploration vs alone,359.76,-125.92,1251.06,False
+606,LSTM,+ layer + exploration vs rules v3 alone × money,-1625.82,-3342.52,-394.45,True
+606,GAMA,+ layer (rules v3) vs alone,1890.03,796.16,3749.94,True
+606,GAMA,+ layer (rules v3) vs × amount,2530.68,1418.49,4386.55,True
+606,GAMA,+ layer (rules v3) vs rules v3 alone × money,-257.15,-514.3,154.34,False
+606,GAMA,+ layer (rules v3) vs + layer (rules v1),1913.8,847.99,3987.84,True
+606,GAMA,+ layer + exploration vs alone,1866.71,660.4,3722.03,True
+606,GAMA,+ layer + exploration vs rules v3 alone × money,-280.46,-771.45,58.75,False
+606,DAE,+ layer (rules v3) vs alone,3206.59,1607.28,4931.36,True
+606,DAE,+ layer (rules v3) vs × amount,2787.83,1426.98,4456.27,True
+606,DAE,+ layer (rules v3) vs rules v3 alone × money,-0.0,-322.17,43.13,False
+606,DAE,+ layer (rules v3) vs + layer (rules v1),2207.48,854.49,3964.35,True
+606,DAE,+ layer + exploration vs alone,2836.43,1398.2,4812.94,True
+606,DAE,+ layer + exploration vs rules v3 alone × money,-370.16,-830.9,23.32,False

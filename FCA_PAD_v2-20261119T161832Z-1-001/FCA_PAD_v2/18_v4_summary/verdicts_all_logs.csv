@@ -1,0 +1,7 @@
+log,hypothesis,result
+BPIC20_D,H10 more lost money than P(anomaly) alone,"€+1,578 mean; significant in 3/3 seeds"
+BPIC20_D,H10 more lost money than v2 fusion,€+411 mean; significant in 0/3 seeds
+BPIC20_D,H11 hold-out types reach the queue,hold-out recall@50: layer 0.02 vs P(anomaly) 0.00
+BPIC20_D,H12 benefit grows with decoy ratio,"0:1 €+1,099 → 1:1 €+1,445 → 4:1 €+1,625 → 10:1 €+1,578"
+BPIC20_D,H13 higher net benefit at every review cost,yes (4/4 costs)
+BPIC20_D,Registry v3 natural firing rate (false-alarm cost),"{""F11"": 0.0002, ""F12"": 0.0889, ""F13"": 0.0, ""F14"": 0.0003, ""F15"": 0.0}"

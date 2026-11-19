@@ -1,0 +1,5 @@
+log,system,PR_AUC,ROC_AUC,F1_oracle,P_oracle,R_oracle,F1_deployable,V@10,V@20,V@50,V@100,LossRecall@50,fusion
+BPIC20_PR,FCA-PAD v2 anomaly lane,0.8971,0.997,0.9545,0.913,1.0,0.9333,0.57,0.887,1.0,1.0,1.0,
+BPIC20_PR,FCA-PAD v2 (full),0.9286,0.9946,0.8649,1.0,0.7619,0.8235,0.3611,0.5433,1.0,1.0,1.0,
+BPIC20_PR,GAMA alone,0.2741,0.9311,0.5,,,,0.0,0.0957,0.86,1.0,0.6299,
+BPIC20_PR,GAMA + FCA-PAD financial layer,0.7389,0.9785,0.8421,,,,0.3476,0.5433,0.6316,1.0,1.0,add w=0.7

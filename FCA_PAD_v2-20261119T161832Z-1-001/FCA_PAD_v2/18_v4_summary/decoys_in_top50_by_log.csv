@@ -1,0 +1,9 @@
+system,BPIC20_D
+P(anomaly),50.0
+amount-only expected loss,38.666666666666664
+anomaly lane (v2 percentile),44.0
+v2 FCA-PAD fusion,28.666666666666668
+"v3 layer, registry v1 (frozen)",25.0
+"v3 layer, registry v3 (audit tests)",18.0
+"v4 layer, registry v1 (frozen)",27.0
+"v4 layer, registry v3 (audit tests)",2.3333333333333335

@@ -1,0 +1,613 @@
+seed,scenario,level,draw,system,MoneyRecall@50,costly_recall@50
+707,covered,0,0,rules alone × money,0.8954,0.7838
+707,covered,0,0,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,0,0,rules alone × money,0.4717,0.4054
+707,mixed,0,0,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,2,0,rules alone × money,0.6977,0.5676
+707,covered,2,0,two-lane: rules (40) + GAMA (10),0.6977,0.5676
+707,mixed,2,0,rules alone × money,0.4034,0.2973
+707,mixed,2,0,two-lane: rules (40) + GAMA (10),0.4867,0.3514
+707,covered,2,1,rules alone × money,0.6274,0.7297
+707,covered,2,1,two-lane: rules (40) + GAMA (10),0.6274,0.7297
+707,mixed,2,1,rules alone × money,0.2549,0.3784
+707,mixed,2,1,two-lane: rules (40) + GAMA (10),0.3382,0.4324
+707,covered,2,2,rules alone × money,0.6326,0.4595
+707,covered,2,2,two-lane: rules (40) + GAMA (10),0.6742,0.5135
+707,mixed,2,2,rules alone × money,0.4111,0.2432
+707,mixed,2,2,two-lane: rules (40) + GAMA (10),0.4944,0.2973
+707,covered,2,3,rules alone × money,0.8954,0.7838
+707,covered,2,3,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,2,3,rules alone × money,0.4717,0.4054
+707,mixed,2,3,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,2,4,rules alone × money,0.8954,0.7838
+707,covered,2,4,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,2,4,rules alone × money,0.4717,0.4054
+707,mixed,2,4,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,2,5,rules alone × money,0.8954,0.7838
+707,covered,2,5,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,2,5,rules alone × money,0.4717,0.4054
+707,mixed,2,5,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,2,6,rules alone × money,0.6274,0.7297
+707,covered,2,6,two-lane: rules (40) + GAMA (10),0.6274,0.7297
+707,mixed,2,6,rules alone × money,0.2549,0.3784
+707,mixed,2,6,two-lane: rules (40) + GAMA (10),0.3382,0.4324
+707,covered,2,7,rules alone × money,0.8954,0.7838
+707,covered,2,7,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,2,7,rules alone × money,0.4717,0.4054
+707,mixed,2,7,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,2,8,rules alone × money,0.7285,0.5946
+707,covered,2,8,two-lane: rules (40) + GAMA (10),0.7285,0.5946
+707,mixed,2,8,rules alone × money,0.3456,0.2973
+707,mixed,2,8,two-lane: rules (40) + GAMA (10),0.429,0.3514
+707,covered,2,9,rules alone × money,0.6977,0.5676
+707,covered,2,9,two-lane: rules (40) + GAMA (10),0.6977,0.5676
+707,mixed,2,9,rules alone × money,0.4034,0.2973
+707,mixed,2,9,two-lane: rules (40) + GAMA (10),0.4867,0.3514
+707,covered,4,0,rules alone × money,0.7285,0.5946
+707,covered,4,0,two-lane: rules (40) + GAMA (10),0.7285,0.5946
+707,mixed,4,0,rules alone × money,0.3456,0.2973
+707,mixed,4,0,two-lane: rules (40) + GAMA (10),0.429,0.3514
+707,covered,4,1,rules alone × money,0.8954,0.7838
+707,covered,4,1,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,4,1,rules alone × money,0.4717,0.4054
+707,mixed,4,1,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,4,2,rules alone × money,0.6326,0.4595
+707,covered,4,2,two-lane: rules (40) + GAMA (10),0.6742,0.5135
+707,mixed,4,2,rules alone × money,0.4111,0.2432
+707,mixed,4,2,two-lane: rules (40) + GAMA (10),0.4944,0.2973
+707,covered,4,3,rules alone × money,0.4297,0.5135
+707,covered,4,3,two-lane: rules (40) + GAMA (10),0.4297,0.5135
+707,mixed,4,3,rules alone × money,0.4034,0.2973
+707,mixed,4,3,two-lane: rules (40) + GAMA (10),0.2699,0.3243
+707,covered,4,4,rules alone × money,0.4297,0.5135
+707,covered,4,4,two-lane: rules (40) + GAMA (10),0.4297,0.5135
+707,mixed,4,4,rules alone × money,0.4034,0.2973
+707,mixed,4,4,two-lane: rules (40) + GAMA (10),0.2699,0.3243
+707,covered,4,5,rules alone × money,0.8954,0.7838
+707,covered,4,5,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,4,5,rules alone × money,0.4717,0.4054
+707,mixed,4,5,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,4,6,rules alone × money,0.6274,0.7297
+707,covered,4,6,two-lane: rules (40) + GAMA (10),0.6274,0.7297
+707,mixed,4,6,rules alone × money,0.4717,0.4054
+707,mixed,4,6,two-lane: rules (40) + GAMA (10),0.3382,0.4324
+707,covered,4,7,rules alone × money,0.8954,0.7838
+707,covered,4,7,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,4,7,rules alone × money,0.4717,0.4054
+707,mixed,4,7,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,4,8,rules alone × money,0.4605,0.5405
+707,covered,4,8,two-lane: rules (40) + GAMA (10),0.4605,0.5405
+707,mixed,4,8,rules alone × money,0.3456,0.2973
+707,mixed,4,8,two-lane: rules (40) + GAMA (10),0.2122,0.3243
+707,covered,4,9,rules alone × money,0.4605,0.5405
+707,covered,4,9,two-lane: rules (40) + GAMA (10),0.4605,0.5405
+707,mixed,4,9,rules alone × money,0.3456,0.2973
+707,mixed,4,9,two-lane: rules (40) + GAMA (10),0.2122,0.3243
+707,covered,6,0,rules alone × money,0.65,0.5405
+707,covered,6,0,two-lane: rules (40) + GAMA (10),0.4297,0.5135
+707,mixed,6,0,rules alone × money,0.4034,0.2973
+707,mixed,6,0,two-lane: rules (40) + GAMA (10),0.4867,0.3514
+707,covered,6,1,rules alone × money,0.6568,0.4865
+707,covered,6,1,two-lane: rules (40) + GAMA (10),0.6742,0.5135
+707,mixed,6,1,rules alone × money,0.4111,0.2432
+707,mixed,6,1,two-lane: rules (40) + GAMA (10),0.4944,0.2973
+707,covered,6,2,rules alone × money,0.8954,0.7838
+707,covered,6,2,two-lane: rules (40) + GAMA (10),0.8477,0.7568
+707,mixed,6,2,rules alone × money,0.4717,0.4054
+707,mixed,6,2,two-lane: rules (40) + GAMA (10),0.555,0.4595
+707,covered,6,3,rules alone × money,0.4831,0.3514
+707,covered,6,3,two-lane: rules (40) + GAMA (10),0.2628,0.3243
+707,mixed,6,3,rules alone × money,0.2774,0.1892
+707,mixed,6,3,two-lane: rules (40) + GAMA (10),0.3479,0.2162
+707,covered,6,4,rules alone × money,0.2922,0.0811
+707,covered,6,4,two-lane: rules (40) + GAMA (10),0.2922,0.0811
+707,mixed,6,4,rules alone × money,0.2168,0.027
+707,mixed,6,4,two-lane: rules (40) + GAMA (10),0.2873,0.0541
+707,covered,6,5,rules alone × money,0.6326,0.4595
+707,covered,6,5,two-lane: rules (40) + GAMA (10),0.6742,0.5135
+707,mixed,6,5,rules alone × money,0.4111,0.2432
+707,mixed,6,5,two-lane: rules (40) + GAMA (10),0.4944,0.2973
+707,covered,6,6,rules alone × money,0.3872,0.2162
+707,covered,6,6,two-lane: rules (40) + GAMA (10),0.2085,0.2432
+707,mixed,6,6,rules alone × money,0.3428,0.1351
+707,mixed,6,6,two-lane: rules (40) + GAMA (10),0.2093,0.1622
+707,covered,6,7,rules alone × money,0.4831,0.3514
+707,covered,6,7,two-lane: rules (40) + GAMA (10),0.4831,0.3514
+707,mixed,6,7,rules alone × money,0.2774,0.1892
+707,mixed,6,7,two-lane: rules (40) + GAMA (10),0.2774,0.1892
+707,covered,6,8,rules alone × money,0.4591,0.2703
+707,covered,6,8,two-lane: rules (40) + GAMA (10),0.4765,0.2973
+707,mixed,6,8,rules alone × money,0.3428,0.1351
+707,mixed,6,8,two-lane: rules (40) + GAMA (10),0.4261,0.1892
+707,covered,6,9,rules alone × money,0.3872,0.2162
+707,covered,6,9,two-lane: rules (40) + GAMA (10),0.4288,0.2703
+707,mixed,6,9,rules alone × money,0.3428,0.1351
+707,mixed,6,9,two-lane: rules (40) + GAMA (10),0.4261,0.1892
+707,covered,8,0,rules alone × money,0.4591,0.2703
+707,covered,8,0,two-lane: rules (40) + GAMA (10),0.4765,0.2973
+707,mixed,8,0,rules alone × money,0.3428,0.1351
+707,mixed,8,0,two-lane: rules (40) + GAMA (10),0.4261,0.1892
+707,covered,8,1,rules alone × money,0.2203,0.027
+707,covered,8,1,two-lane: rules (40) + GAMA (10),0.2333,0.0541
+707,mixed,8,1,rules alone × money,0.2168,0.027
+707,mixed,8,1,two-lane: rules (40) + GAMA (10),0.2873,0.0541
+707,covered,8,2,rules alone × money,0.4899,0.2973
+707,covered,8,2,two-lane: rules (40) + GAMA (10),0.4787,0.2973
+707,mixed,8,2,rules alone × money,0.285,0.1351
+707,mixed,8,2,two-lane: rules (40) + GAMA (10),0.3556,0.1622
+707,covered,8,3,rules alone × money,0.2203,0.027
+707,covered,8,3,two-lane: rules (40) + GAMA (10),0.2203,0.027
+707,mixed,8,3,rules alone × money,0.2168,0.027
+707,mixed,8,3,two-lane: rules (40) + GAMA (10),0.2168,0.027
+707,covered,8,4,rules alone × money,0.65,0.5405
+707,covered,8,4,two-lane: rules (40) + GAMA (10),0.4297,0.5135
+707,mixed,8,4,rules alone × money,0.4034,0.2973
+707,mixed,8,4,two-lane: rules (40) + GAMA (10),0.4867,0.3514
+707,covered,8,5,rules alone × money,0.555,0.4054
+707,covered,8,5,two-lane: rules (40) + GAMA (10),0.5308,0.3784
+707,mixed,8,5,rules alone × money,0.2774,0.1892
+707,mixed,8,5,two-lane: rules (40) + GAMA (10),0.2774,0.1892
+707,covered,8,6,rules alone × money,0.4831,0.3514
+707,covered,8,6,two-lane: rules (40) + GAMA (10),0.4831,0.3514
+707,mixed,8,6,rules alone × money,0.2774,0.1892
+707,mixed,8,6,two-lane: rules (40) + GAMA (10),0.2774,0.1892
+707,covered,8,7,rules alone × money,0.4899,0.2973
+707,covered,8,7,two-lane: rules (40) + GAMA (10),0.4787,0.2973
+707,mixed,8,7,rules alone × money,0.285,0.1351
+707,mixed,8,7,two-lane: rules (40) + GAMA (10),0.3556,0.1622
+707,covered,8,8,rules alone × money,0.6808,0.5676
+707,covered,8,8,two-lane: rules (40) + GAMA (10),0.4605,0.5405
+707,mixed,8,8,rules alone × money,0.3456,0.2973
+707,mixed,8,8,two-lane: rules (40) + GAMA (10),0.4162,0.3243
+707,covered,8,9,rules alone × money,0.418,0.2432
+707,covered,8,9,two-lane: rules (40) + GAMA (10),0.431,0.2703
+707,mixed,8,9,rules alone × money,0.285,0.1351
+707,mixed,8,9,two-lane: rules (40) + GAMA (10),0.3556,0.1622
+707,covered,10,0,rules alone × money,0.418,0.2432
+707,covered,10,0,two-lane: rules (40) + GAMA (10),0.4596,0.2973
+707,mixed,10,0,rules alone × money,0.285,0.1351
+707,mixed,10,0,two-lane: rules (40) + GAMA (10),0.3684,0.1892
+707,covered,10,1,rules alone × money,0.2922,0.0811
+707,covered,10,1,two-lane: rules (40) + GAMA (10),0.2922,0.0811
+707,mixed,10,1,rules alone × money,0.2168,0.027
+707,mixed,10,1,two-lane: rules (40) + GAMA (10),0.2168,0.027
+707,covered,10,2,rules alone × money,0.418,0.2432
+707,covered,10,2,two-lane: rules (40) + GAMA (10),0.4596,0.2973
+707,mixed,10,2,rules alone × money,0.285,0.1351
+707,mixed,10,2,two-lane: rules (40) + GAMA (10),0.3684,0.1892
+707,covered,10,3,rules alone × money,0.2203,0.027
+707,covered,10,3,two-lane: rules (40) + GAMA (10),0.2203,0.027
+707,mixed,10,3,rules alone × money,0.2168,0.027
+707,mixed,10,3,two-lane: rules (40) + GAMA (10),0.2168,0.027
+707,covered,10,4,rules alone × money,0.2922,0.0811
+707,covered,10,4,two-lane: rules (40) + GAMA (10),0.281,0.0811
+707,mixed,10,4,rules alone × money,0.2168,0.027
+707,mixed,10,4,two-lane: rules (40) + GAMA (10),0.2873,0.0541
+707,covered,10,5,rules alone × money,0.6808,0.5676
+707,covered,10,5,two-lane: rules (40) + GAMA (10),0.4605,0.5405
+707,mixed,10,5,rules alone × money,0.3456,0.2973
+707,mixed,10,5,two-lane: rules (40) + GAMA (10),0.4162,0.3243
+707,covered,10,6,rules alone × money,0.418,0.2432
+707,covered,10,6,two-lane: rules (40) + GAMA (10),0.431,0.2703
+707,mixed,10,6,rules alone × money,0.285,0.1351
+707,mixed,10,6,two-lane: rules (40) + GAMA (10),0.3556,0.1622
+707,covered,10,7,rules alone × money,0.3872,0.2162
+707,covered,10,7,two-lane: rules (40) + GAMA (10),0.4288,0.2703
+707,mixed,10,7,rules alone × money,0.3428,0.1351
+707,mixed,10,7,two-lane: rules (40) + GAMA (10),0.4261,0.1892
+707,covered,10,8,rules alone × money,0.2203,0.027
+707,covered,10,8,two-lane: rules (40) + GAMA (10),0.2333,0.0541
+707,mixed,10,8,rules alone × money,0.2168,0.027
+707,mixed,10,8,two-lane: rules (40) + GAMA (10),0.2873,0.0541
+707,covered,10,9,rules alone × money,0.2203,0.027
+707,covered,10,9,two-lane: rules (40) + GAMA (10),0.2203,0.027
+707,mixed,10,9,rules alone × money,0.2168,0.027
+707,mixed,10,9,two-lane: rules (40) + GAMA (10),0.2168,0.027
+808,covered,0,0,rules alone × money,0.9256,0.7778
+808,covered,0,0,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,0,0,rules alone × money,0.4499,0.3778
+808,mixed,0,0,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,2,0,rules alone × money,0.9256,0.7778
+808,covered,2,0,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,2,0,rules alone × money,0.4499,0.3778
+808,mixed,2,0,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,2,1,rules alone × money,0.9256,0.7778
+808,covered,2,1,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,2,1,rules alone × money,0.4499,0.3778
+808,mixed,2,1,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,2,2,rules alone × money,0.9256,0.7778
+808,covered,2,2,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,2,2,rules alone × money,0.4499,0.3778
+808,mixed,2,2,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,2,3,rules alone × money,0.853,0.6444
+808,covered,2,3,two-lane: rules (40) + GAMA (10),0.8343,0.6222
+808,mixed,2,3,rules alone × money,0.3754,0.3111
+808,mixed,2,3,two-lane: rules (40) + GAMA (10),0.3848,0.3333
+808,covered,2,4,rules alone × money,0.9256,0.7778
+808,covered,2,4,two-lane: rules (40) + GAMA (10),0.8715,0.7333
+808,mixed,2,4,rules alone × money,0.4499,0.3778
+808,mixed,2,4,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,2,5,rules alone × money,0.9256,0.7778
+808,covered,2,5,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,2,5,rules alone × money,0.4499,0.3778
+808,mixed,2,5,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,2,6,rules alone × money,0.2912,0.2667
+808,covered,2,6,two-lane: rules (40) + GAMA (10),0.3168,0.3111
+808,mixed,2,6,rules alone × money,0.2649,0.1333
+808,mixed,2,6,two-lane: rules (40) + GAMA (10),0.2852,0.1556
+808,covered,2,7,rules alone × money,0.9256,0.7778
+808,covered,2,7,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,2,7,rules alone × money,0.4499,0.3778
+808,mixed,2,7,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,2,8,rules alone × money,0.7686,0.7111
+808,covered,2,8,two-lane: rules (40) + GAMA (10),0.7686,0.7111
+808,mixed,2,8,rules alone × money,0.557,0.3778
+808,mixed,2,8,two-lane: rules (40) + GAMA (10),0.4559,0.4
+808,covered,2,9,rules alone × money,0.7686,0.7111
+808,covered,2,9,two-lane: rules (40) + GAMA (10),0.7686,0.7111
+808,mixed,2,9,rules alone × money,0.557,0.3778
+808,mixed,2,9,two-lane: rules (40) + GAMA (10),0.4559,0.4
+808,covered,4,0,rules alone × money,0.5314,0.3111
+808,covered,4,0,two-lane: rules (40) + GAMA (10),0.557,0.3556
+808,mixed,4,0,rules alone × money,0.2134,0.1556
+808,mixed,4,0,two-lane: rules (40) + GAMA (10),0.2337,0.1778
+808,covered,4,1,rules alone × money,0.647,0.4889
+808,covered,4,1,two-lane: rules (40) + GAMA (10),0.6726,0.5333
+808,mixed,4,1,rules alone × money,0.2879,0.2222
+808,mixed,4,1,two-lane: rules (40) + GAMA (10),0.3082,0.2444
+808,covered,4,2,rules alone × money,0.7686,0.7111
+808,covered,4,2,two-lane: rules (40) + GAMA (10),0.7686,0.7111
+808,mixed,4,2,rules alone × money,0.557,0.3778
+808,mixed,4,2,two-lane: rules (40) + GAMA (10),0.4559,0.4
+808,covered,4,3,rules alone × money,0.5885,0.5778
+808,covered,4,3,two-lane: rules (40) + GAMA (10),0.5698,0.5556
+808,mixed,4,3,rules alone × money,0.4269,0.2889
+808,mixed,4,3,two-lane: rules (40) + GAMA (10),0.4646,0.3333
+808,covered,4,4,rules alone × money,0.853,0.6444
+808,covered,4,4,two-lane: rules (40) + GAMA (10),0.8343,0.6222
+808,mixed,4,4,rules alone × money,0.3754,0.3111
+808,mixed,4,4,two-lane: rules (40) + GAMA (10),0.3848,0.3333
+808,covered,4,5,rules alone × money,0.4973,0.4222
+808,covered,4,5,two-lane: rules (40) + GAMA (10),0.4973,0.4222
+808,mixed,4,5,rules alone × money,0.3523,0.2222
+808,mixed,4,5,two-lane: rules (40) + GAMA (10),0.3618,0.2444
+808,covered,4,6,rules alone × money,0.4973,0.4222
+808,covered,4,6,two-lane: rules (40) + GAMA (10),0.4973,0.4222
+808,mixed,4,6,rules alone × money,0.3523,0.2222
+808,mixed,4,6,two-lane: rules (40) + GAMA (10),0.3618,0.2444
+808,covered,4,7,rules alone × money,0.5743,0.4222
+808,covered,4,7,two-lane: rules (40) + GAMA (10),0.4969,0.4444
+808,mixed,4,7,rules alone × money,0.3809,0.2
+808,mixed,4,7,two-lane: rules (40) + GAMA (10),0.4153,0.2444
+808,covered,4,8,rules alone × money,0.4973,0.4222
+808,covered,4,8,two-lane: rules (40) + GAMA (10),0.4973,0.4222
+808,mixed,4,8,rules alone × money,0.3523,0.2222
+808,mixed,4,8,two-lane: rules (40) + GAMA (10),0.3618,0.2444
+808,covered,4,9,rules alone × money,0.5885,0.5778
+808,covered,4,9,two-lane: rules (40) + GAMA (10),0.5698,0.5556
+808,mixed,4,9,rules alone × money,0.4269,0.2889
+808,mixed,4,9,two-lane: rules (40) + GAMA (10),0.4646,0.3333
+808,covered,6,0,rules alone × money,0.5743,0.4222
+808,covered,6,0,two-lane: rules (40) + GAMA (10),0.4969,0.4444
+808,mixed,6,0,rules alone × money,0.3809,0.2
+808,mixed,6,0,two-lane: rules (40) + GAMA (10),0.4153,0.2444
+808,covered,6,1,rules alone × money,0.5314,0.3111
+808,covered,6,1,two-lane: rules (40) + GAMA (10),0.557,0.3556
+808,mixed,6,1,rules alone × money,0.2134,0.1556
+808,mixed,6,1,two-lane: rules (40) + GAMA (10),0.2337,0.1778
+808,covered,6,2,rules alone × money,0.4973,0.4222
+808,covered,6,2,two-lane: rules (40) + GAMA (10),0.4973,0.4222
+808,mixed,6,2,rules alone × money,0.3523,0.2222
+808,mixed,6,2,two-lane: rules (40) + GAMA (10),0.3618,0.2444
+808,covered,6,3,rules alone × money,0.7686,0.7111
+808,covered,6,3,two-lane: rules (40) + GAMA (10),0.7686,0.7111
+808,mixed,6,3,rules alone × money,0.557,0.3778
+808,mixed,6,3,two-lane: rules (40) + GAMA (10),0.3114,0.3778
+808,covered,6,4,rules alone × money,0.5485,0.2667
+808,covered,6,4,two-lane: rules (40) + GAMA (10),0.4842,0.2889
+808,mixed,6,4,rules alone × money,0.3063,0.1333
+808,mixed,6,4,two-lane: rules (40) + GAMA (10),0.3408,0.1778
+808,covered,6,5,rules alone × money,0.9256,0.7778
+808,covered,6,5,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,6,5,rules alone × money,0.4499,0.3778
+808,mixed,6,5,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,6,6,rules alone × money,0.5449,0.3778
+808,covered,6,6,two-lane: rules (40) + GAMA (10),0.442,0.3556
+808,mixed,6,6,rules alone × money,0.4594,0.2222
+808,mixed,6,6,two-lane: rules (40) + GAMA (10),0.4689,0.2444
+808,covered,6,7,rules alone × money,0.6774,0.5556
+808,covered,6,7,two-lane: rules (40) + GAMA (10),0.6774,0.5556
+808,mixed,6,7,rules alone × money,0.4824,0.3111
+808,mixed,6,7,two-lane: rules (40) + GAMA (10),0.4919,0.3333
+808,covered,6,8,rules alone × money,0.9256,0.7778
+808,covered,6,8,two-lane: rules (40) + GAMA (10),0.8993,0.7556
+808,mixed,6,8,rules alone × money,0.4499,0.3778
+808,mixed,6,8,two-lane: rules (40) + GAMA (10),0.4876,0.4222
+808,covered,6,9,rules alone × money,0.5449,0.3778
+808,covered,6,9,two-lane: rules (40) + GAMA (10),0.442,0.3556
+808,mixed,6,9,rules alone × money,0.4594,0.2222
+808,mixed,6,9,two-lane: rules (40) + GAMA (10),0.4689,0.2444
+808,covered,8,0,rules alone × money,0.3131,0.0667
+808,covered,8,0,two-lane: rules (40) + GAMA (10),0.3387,0.1111
+808,mixed,8,0,rules alone × money,0.2833,0.0444
+808,mixed,8,0,two-lane: rules (40) + GAMA (10),0.3178,0.0889
+808,covered,8,1,rules alone × money,0.5743,0.4222
+808,covered,8,1,two-lane: rules (40) + GAMA (10),0.4969,0.4444
+808,mixed,8,1,rules alone × money,0.3809,0.2
+808,mixed,8,1,two-lane: rules (40) + GAMA (10),0.4153,0.2444
+808,covered,8,2,rules alone × money,0.5449,0.3778
+808,covered,8,2,two-lane: rules (40) + GAMA (10),0.442,0.3556
+808,mixed,8,2,rules alone × money,0.4594,0.2222
+808,mixed,8,2,two-lane: rules (40) + GAMA (10),0.4689,0.2444
+808,covered,8,3,rules alone × money,0.5314,0.3111
+808,covered,8,3,two-lane: rules (40) + GAMA (10),0.557,0.3556
+808,mixed,8,3,rules alone × money,0.2134,0.1556
+808,mixed,8,3,two-lane: rules (40) + GAMA (10),0.2337,0.1778
+808,covered,8,4,rules alone × money,0.6361,0.5333
+808,covered,8,4,two-lane: rules (40) + GAMA (10),0.4129,0.4889
+808,mixed,8,4,rules alone × money,0.534,0.2889
+808,mixed,8,4,two-lane: rules (40) + GAMA (10),0.5717,0.3333
+808,covered,8,5,rules alone × money,0.4287,0.2444
+808,covered,8,5,two-lane: rules (40) + GAMA (10),0.3644,0.2667
+808,mixed,8,5,rules alone × money,0.3579,0.1111
+808,mixed,8,5,two-lane: rules (40) + GAMA (10),0.3923,0.1556
+808,covered,8,6,rules alone × money,0.4973,0.4222
+808,covered,8,6,two-lane: rules (40) + GAMA (10),0.4973,0.4222
+808,mixed,8,6,rules alone × money,0.3523,0.2222
+808,mixed,8,6,two-lane: rules (40) + GAMA (10),0.3618,0.2444
+808,covered,8,7,rules alone × money,0.3124,0.3111
+808,covered,8,7,two-lane: rules (40) + GAMA (10),0.3168,0.3111
+808,mixed,8,7,rules alone × money,0.2649,0.1333
+808,mixed,8,7,two-lane: rules (40) + GAMA (10),0.2852,0.1556
+808,covered,8,8,rules alone × money,0.2912,0.2667
+808,covered,8,8,two-lane: rules (40) + GAMA (10),0.3168,0.3111
+808,mixed,8,8,rules alone × money,0.2508,0.1111
+808,mixed,8,8,two-lane: rules (40) + GAMA (10),0.2852,0.1556
+808,covered,8,9,rules alone × money,0.4287,0.2444
+808,covered,8,9,two-lane: rules (40) + GAMA (10),0.3644,0.2667
+808,mixed,8,9,rules alone × money,0.3579,0.1111
+808,mixed,8,9,two-lane: rules (40) + GAMA (10),0.3923,0.1556
+808,covered,10,0,rules alone × money,0.4287,0.2444
+808,covered,10,0,two-lane: rules (40) + GAMA (10),0.3644,0.2667
+808,mixed,10,0,rules alone × money,0.3579,0.1111
+808,mixed,10,0,two-lane: rules (40) + GAMA (10),0.3923,0.1556
+808,covered,10,1,rules alone × money,0.5449,0.3778
+808,covered,10,1,two-lane: rules (40) + GAMA (10),0.442,0.3556
+808,mixed,10,1,rules alone × money,0.4594,0.2222
+808,mixed,10,1,two-lane: rules (40) + GAMA (10),0.4689,0.2444
+808,covered,10,2,rules alone × money,0.3131,0.0667
+808,covered,10,2,two-lane: rules (40) + GAMA (10),0.3387,0.1111
+808,mixed,10,2,rules alone × money,0.2833,0.0444
+808,mixed,10,2,two-lane: rules (40) + GAMA (10),0.3178,0.0889
+808,covered,10,3,rules alone × money,0.3131,0.0667
+808,covered,10,3,two-lane: rules (40) + GAMA (10),0.3387,0.1111
+808,mixed,10,3,rules alone × money,0.2833,0.0444
+808,mixed,10,3,two-lane: rules (40) + GAMA (10),0.3178,0.0889
+808,covered,10,4,rules alone × money,0.5485,0.2667
+808,covered,10,4,two-lane: rules (40) + GAMA (10),0.4842,0.2889
+808,mixed,10,4,rules alone × money,0.3063,0.1333
+808,mixed,10,4,two-lane: rules (40) + GAMA (10),0.3408,0.1778
+808,covered,10,5,rules alone × money,0.5449,0.3778
+808,covered,10,5,two-lane: rules (40) + GAMA (10),0.442,0.3556
+808,mixed,10,5,rules alone × money,0.4594,0.2222
+808,mixed,10,5,two-lane: rules (40) + GAMA (10),0.4689,0.2444
+808,covered,10,6,rules alone × money,0.6361,0.5333
+808,covered,10,6,two-lane: rules (40) + GAMA (10),0.4129,0.4889
+808,mixed,10,6,rules alone × money,0.534,0.2889
+808,mixed,10,6,two-lane: rules (40) + GAMA (10),0.5717,0.3333
+808,covered,10,7,rules alone × money,0.3131,0.0667
+808,covered,10,7,two-lane: rules (40) + GAMA (10),0.3387,0.1111
+808,mixed,10,7,rules alone × money,0.2833,0.0444
+808,mixed,10,7,two-lane: rules (40) + GAMA (10),0.3178,0.0889
+808,covered,10,8,rules alone × money,0.5333,0.5111
+808,covered,10,8,two-lane: rules (40) + GAMA (10),0.4129,0.4889
+808,mixed,10,8,rules alone × money,0.534,0.2889
+808,mixed,10,8,two-lane: rules (40) + GAMA (10),0.4329,0.3111
+808,covered,10,9,rules alone × money,0.5449,0.3778
+808,covered,10,9,two-lane: rules (40) + GAMA (10),0.442,0.3556
+808,mixed,10,9,rules alone × money,0.4594,0.2222
+808,mixed,10,9,two-lane: rules (40) + GAMA (10),0.4689,0.2444
+909,covered,0,0,rules alone × money,0.7901,0.75
+909,covered,0,0,two-lane: rules (40) + GAMA (10),0.6853,0.7
+909,mixed,0,0,rules alone × money,0.3909,0.425
+909,mixed,0,0,two-lane: rules (40) + GAMA (10),0.3503,0.4
+909,covered,2,0,rules alone × money,0.4172,0.325
+909,covered,2,0,two-lane: rules (40) + GAMA (10),0.3876,0.3
+909,mixed,2,0,rules alone × money,0.1819,0.175
+909,mixed,2,0,two-lane: rules (40) + GAMA (10),0.1545,0.15
+909,covered,2,1,rules alone × money,0.675,0.575
+909,covered,2,1,two-lane: rules (40) + GAMA (10),0.5971,0.525
+909,mixed,2,1,rules alone × money,0.2955,0.3
+909,mixed,2,1,two-lane: rules (40) + GAMA (10),0.2955,0.3
+909,covered,2,2,rules alone × money,0.6853,0.7
+909,covered,2,2,two-lane: rules (40) + GAMA (10),0.6853,0.7
+909,mixed,2,2,rules alone × money,0.2871,0.35
+909,mixed,2,2,two-lane: rules (40) + GAMA (10),0.2871,0.35
+909,covered,2,3,rules alone × money,0.7438,0.725
+909,covered,2,3,two-lane: rules (40) + GAMA (10),0.6853,0.7
+909,mixed,2,3,rules alone × money,0.3909,0.425
+909,mixed,2,3,two-lane: rules (40) + GAMA (10),0.3503,0.4
+909,covered,2,4,rules alone × money,0.7901,0.75
+909,covered,2,4,two-lane: rules (40) + GAMA (10),0.6853,0.7
+909,mixed,2,4,rules alone × money,0.3909,0.425
+909,mixed,2,4,two-lane: rules (40) + GAMA (10),0.3503,0.4
+909,covered,2,5,rules alone × money,0.7901,0.75
+909,covered,2,5,two-lane: rules (40) + GAMA (10),0.6853,0.7
+909,mixed,2,5,rules alone × money,0.3909,0.425
+909,mixed,2,5,two-lane: rules (40) + GAMA (10),0.3503,0.4
+909,covered,2,6,rules alone × money,0.7438,0.725
+909,covered,2,6,two-lane: rules (40) + GAMA (10),0.6853,0.7
+909,mixed,2,6,rules alone × money,0.3909,0.425
+909,mixed,2,6,two-lane: rules (40) + GAMA (10),0.3503,0.4
+909,covered,2,7,rules alone × money,0.6815,0.625
+909,covered,2,7,two-lane: rules (40) + GAMA (10),0.6462,0.6
+909,mixed,2,7,rules alone × money,0.3533,0.35
+909,mixed,2,7,two-lane: rules (40) + GAMA (10),0.3259,0.325
+909,covered,2,8,rules alone × money,0.675,0.575
+909,covered,2,8,two-lane: rules (40) + GAMA (10),0.5971,0.525
+909,mixed,2,8,rules alone × money,0.2955,0.3
+909,mixed,2,8,two-lane: rules (40) + GAMA (10),0.2955,0.3
+909,covered,2,9,rules alone × money,0.5806,0.525
+909,covered,2,9,two-lane: rules (40) + GAMA (10),0.5453,0.5
+909,mixed,2,9,rules alone × money,0.2499,0.275
+909,mixed,2,9,two-lane: rules (40) + GAMA (10),0.2499,0.275
+909,covered,4,0,rules alone × money,0.3794,0.4
+909,covered,4,0,two-lane: rules (40) + GAMA (10),0.3794,0.4
+909,mixed,4,0,rules alone × money,0.1461,0.2
+909,mixed,4,0,two-lane: rules (40) + GAMA (10),0.1461,0.2
+909,covered,4,1,rules alone × money,0.4238,0.375
+909,covered,4,1,two-lane: rules (40) + GAMA (10),0.3942,0.35
+909,mixed,4,1,rules alone × money,0.2266,0.225
+909,mixed,4,1,two-lane: rules (40) + GAMA (10),0.1992,0.2
+909,covered,4,2,rules alone × money,0.6815,0.625
+909,covered,4,2,two-lane: rules (40) + GAMA (10),0.5574,0.55
+909,mixed,4,2,rules alone × money,0.3402,0.35
+909,mixed,4,2,two-lane: rules (40) + GAMA (10),0.3402,0.35
+909,covered,4,3,rules alone × money,0.3794,0.4
+909,covered,4,3,two-lane: rules (40) + GAMA (10),0.3794,0.4
+909,mixed,4,3,rules alone × money,0.1461,0.2
+909,mixed,4,3,two-lane: rules (40) + GAMA (10),0.1461,0.2
+909,covered,4,4,rules alone × money,0.6853,0.7
+909,covered,4,4,two-lane: rules (40) + GAMA (10),0.6853,0.7
+909,mixed,4,4,rules alone × money,0.2871,0.35
+909,mixed,4,4,two-lane: rules (40) + GAMA (10),0.2871,0.35
+909,covered,4,5,rules alone × money,0.675,0.575
+909,covered,4,5,two-lane: rules (40) + GAMA (10),0.5508,0.5
+909,mixed,4,5,rules alone × money,0.2955,0.3
+909,mixed,4,5,two-lane: rules (40) + GAMA (10),0.2955,0.3
+909,covered,4,6,rules alone × money,0.675,0.575
+909,covered,4,6,two-lane: rules (40) + GAMA (10),0.5971,0.525
+909,mixed,4,6,rules alone × money,0.2955,0.3
+909,mixed,4,6,two-lane: rules (40) + GAMA (10),0.2955,0.3
+909,covered,4,7,rules alone × money,0.1864,0.175
+909,covered,4,7,two-lane: rules (40) + GAMA (10),0.1864,0.175
+909,mixed,4,7,rules alone × money,0.0507,0.075
+909,mixed,4,7,two-lane: rules (40) + GAMA (10),0.0507,0.075
+909,covered,4,8,rules alone × money,0.675,0.575
+909,covered,4,8,two-lane: rules (40) + GAMA (10),0.6396,0.55
+909,mixed,4,8,rules alone × money,0.3353,0.325
+909,mixed,4,8,two-lane: rules (40) + GAMA (10),0.2813,0.275
+909,covered,4,9,rules alone × money,0.5916,0.525
+909,covered,4,9,two-lane: rules (40) + GAMA (10),0.562,0.5
+909,mixed,4,9,rules alone × money,0.3161,0.325
+909,mixed,4,9,two-lane: rules (40) + GAMA (10),0.2357,0.25
+909,covered,6,0,rules alone × money,0.4886,0.4
+909,covered,6,0,two-lane: rules (40) + GAMA (10),0.4886,0.4
+909,mixed,6,0,rules alone × money,0.2846,0.25
+909,mixed,6,0,two-lane: rules (40) + GAMA (10),0.2305,0.2
+909,covered,6,1,rules alone × money,0.6815,0.625
+909,covered,6,1,two-lane: rules (40) + GAMA (10),0.5574,0.55
+909,mixed,6,1,rules alone × money,0.3402,0.35
+909,mixed,6,1,two-lane: rules (40) + GAMA (10),0.3402,0.35
+909,covered,6,2,rules alone × money,0.4923,0.475
+909,covered,6,2,two-lane: rules (40) + GAMA (10),0.4923,0.475
+909,mixed,6,2,rules alone × money,0.1917,0.225
+909,mixed,6,2,two-lane: rules (40) + GAMA (10),0.1917,0.225
+909,covered,6,3,rules alone × money,0.3046,0.225
+909,covered,6,3,two-lane: rules (40) + GAMA (10),0.2122,0.125
+909,mixed,6,3,rules alone × money,0.17,0.125
+909,mixed,6,3,two-lane: rules (40) + GAMA (10),0.0895,0.05
+909,covered,6,4,rules alone × money,0.4886,0.4
+909,covered,6,4,two-lane: rules (40) + GAMA (10),0.4886,0.4
+909,mixed,6,4,rules alone × money,0.2846,0.25
+909,mixed,6,4,two-lane: rules (40) + GAMA (10),0.2305,0.2
+909,covered,6,5,rules alone × money,0.6815,0.625
+909,covered,6,5,two-lane: rules (40) + GAMA (10),0.6462,0.6
+909,mixed,6,5,rules alone × money,0.3259,0.325
+909,mixed,6,5,two-lane: rules (40) + GAMA (10),0.3259,0.325
+909,covered,6,6,rules alone × money,0.4225,0.325
+909,covered,6,6,two-lane: rules (40) + GAMA (10),0.3986,0.3
+909,mixed,6,6,rules alone × money,0.2207,0.2
+909,mixed,6,6,two-lane: rules (40) + GAMA (10),0.1403,0.125
+909,covered,6,7,rules alone × money,0.4172,0.325
+909,covered,6,7,two-lane: rules (40) + GAMA (10),0.3876,0.3
+909,mixed,6,7,rules alone × money,0.1545,0.15
+909,mixed,6,7,two-lane: rules (40) + GAMA (10),0.1545,0.15
+909,covered,6,8,rules alone × money,0.4172,0.325
+909,covered,6,8,two-lane: rules (40) + GAMA (10),0.3876,0.3
+909,mixed,6,8,rules alone × money,0.1545,0.15
+909,mixed,6,8,two-lane: rules (40) + GAMA (10),0.1545,0.15
+909,covered,6,9,rules alone × money,0.4886,0.4
+909,covered,6,9,two-lane: rules (40) + GAMA (10),0.4886,0.4
+909,mixed,6,9,rules alone × money,0.2846,0.25
+909,mixed,6,9,two-lane: rules (40) + GAMA (10),0.2305,0.2
+909,covered,8,0,rules alone × money,0.193,0.225
+909,covered,8,0,two-lane: rules (40) + GAMA (10),0.193,0.225
+909,mixed,8,0,rules alone × money,0.0954,0.125
+909,mixed,8,0,two-lane: rules (40) + GAMA (10),0.0954,0.125
+909,covered,8,1,rules alone × money,0.6815,0.625
+909,covered,8,1,two-lane: rules (40) + GAMA (10),0.5574,0.55
+909,mixed,8,1,rules alone × money,0.3402,0.35
+909,mixed,8,1,two-lane: rules (40) + GAMA (10),0.3402,0.35
+909,covered,8,2,rules alone × money,0.3794,0.4
+909,covered,8,2,two-lane: rules (40) + GAMA (10),0.3794,0.4
+909,mixed,8,2,rules alone × money,0.1461,0.2
+909,mixed,8,2,two-lane: rules (40) + GAMA (10),0.1461,0.2
+909,covered,8,3,rules alone × money,0.4172,0.325
+909,covered,8,3,two-lane: rules (40) + GAMA (10),0.3876,0.3
+909,mixed,8,3,rules alone × money,0.1545,0.15
+909,mixed,8,3,two-lane: rules (40) + GAMA (10),0.1545,0.15
+909,covered,8,4,rules alone × money,0.0186,0.025
+909,covered,8,4,two-lane: rules (40) + GAMA (10),0.0186,0.025
+909,mixed,8,4,rules alone × money,0.0205,0.025
+909,mixed,8,4,two-lane: rules (40) + GAMA (10),0.0205,0.025
+909,covered,8,5,rules alone × money,0.4923,0.475
+909,covered,8,5,two-lane: rules (40) + GAMA (10),0.4923,0.475
+909,mixed,8,5,rules alone × money,0.1917,0.225
+909,mixed,8,5,two-lane: rules (40) + GAMA (10),0.1917,0.225
+909,covered,8,6,rules alone × money,0.4923,0.475
+909,covered,8,6,two-lane: rules (40) + GAMA (10),0.4923,0.475
+909,mixed,8,6,rules alone × money,0.1917,0.225
+909,mixed,8,6,two-lane: rules (40) + GAMA (10),0.1917,0.225
+909,covered,8,7,rules alone × money,0.193,0.225
+909,covered,8,7,two-lane: rules (40) + GAMA (10),0.193,0.225
+909,mixed,8,7,rules alone × money,0.0954,0.125
+909,mixed,8,7,two-lane: rules (40) + GAMA (10),0.0954,0.125
+909,covered,8,8,rules alone × money,0.675,0.575
+909,covered,8,8,two-lane: rules (40) + GAMA (10),0.6396,0.55
+909,mixed,8,8,rules alone × money,0.2813,0.275
+909,mixed,8,8,two-lane: rules (40) + GAMA (10),0.2813,0.275
+909,covered,8,9,rules alone × money,0.3059,0.3
+909,covered,8,9,two-lane: rules (40) + GAMA (10),0.3059,0.3
+909,mixed,8,9,rules alone × money,0.141,0.15
+909,mixed,8,9,two-lane: rules (40) + GAMA (10),0.141,0.15
+909,covered,10,0,rules alone × money,0.0,0.0
+909,covered,10,0,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,mixed,10,0,rules alone × money,0.0,0.0
+909,mixed,10,0,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,covered,10,1,rules alone × money,0.3059,0.3
+909,covered,10,1,two-lane: rules (40) + GAMA (10),0.3059,0.3
+909,mixed,10,1,rules alone × money,0.141,0.15
+909,mixed,10,1,two-lane: rules (40) + GAMA (10),0.141,0.15
+909,covered,10,2,rules alone × money,0.3046,0.225
+909,covered,10,2,two-lane: rules (40) + GAMA (10),0.2122,0.125
+909,mixed,10,2,rules alone × money,0.17,0.125
+909,mixed,10,2,two-lane: rules (40) + GAMA (10),0.1436,0.1
+909,covered,10,3,rules alone × money,0.193,0.225
+909,covered,10,3,two-lane: rules (40) + GAMA (10),0.193,0.225
+909,mixed,10,3,rules alone × money,0.0954,0.125
+909,mixed,10,3,two-lane: rules (40) + GAMA (10),0.0954,0.125
+909,covered,10,4,rules alone × money,0.193,0.225
+909,covered,10,4,two-lane: rules (40) + GAMA (10),0.193,0.225
+909,mixed,10,4,rules alone × money,0.0954,0.125
+909,mixed,10,4,two-lane: rules (40) + GAMA (10),0.0954,0.125
+909,covered,10,5,rules alone × money,0.1864,0.175
+909,covered,10,5,two-lane: rules (40) + GAMA (10),0.1864,0.175
+909,mixed,10,5,rules alone × money,0.0507,0.075
+909,mixed,10,5,two-lane: rules (40) + GAMA (10),0.0507,0.075
+909,covered,10,6,rules alone × money,0.0,0.0
+909,covered,10,6,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,mixed,10,6,rules alone × money,0.0,0.0
+909,mixed,10,6,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,covered,10,7,rules alone × money,0.0,0.0
+909,covered,10,7,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,mixed,10,7,rules alone × money,0.0,0.0
+909,mixed,10,7,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,covered,10,8,rules alone × money,0.0,0.0
+909,covered,10,8,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,mixed,10,8,rules alone × money,0.0,0.0
+909,mixed,10,8,two-lane: rules (40) + GAMA (10),0.0,0.0
+909,covered,10,9,rules alone × money,0.193,0.225
+909,covered,10,9,two-lane: rules (40) + GAMA (10),0.193,0.225
+909,mixed,10,9,rules alone × money,0.0954,0.125
+909,mixed,10,9,two-lane: rules (40) + GAMA (10),0.0954,0.125

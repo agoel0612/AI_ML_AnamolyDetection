@@ -1,0 +1,19 @@
+{
+  "v2_lane": "A_NE_max_act",
+  "budget_col": null,
+  "ratio_q99": null,
+  "org_col": null,
+  "director_threshold": null,
+  "n_director_train_cases": 0,
+  "director_share_below_threshold": null,
+  "pi_pay": 0.9998340248962656,
+  "rejection_activity": "Declaration REJECTED by ADMINISTRATION",
+  "rejection_role": "ADMINISTRATION",
+  "submission_activity": "Declaration SUBMITTED by EMPLOYEE",
+  "costly_types": [
+    "A1",
+    "A5",
+    "C1",
+    "C4"
+  ]
+}
